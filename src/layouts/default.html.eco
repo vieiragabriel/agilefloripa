@@ -19,7 +19,7 @@
   <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/img/badge.jpg">
   <!-- / FACEBOOK -->
 
-  <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="<%= @getTheme() %>/img/favicon.png" type="image/x-icon">
   <link rel="apple-touch-icon" href="<%= @getTheme() %>/img/apple-touch-icon.png">
 
   <!-- STYLES -->
@@ -40,7 +40,7 @@
         <%- @content %>
         <!-- FOOTER -->
         <footer class="footer">
-          <p>Made with ♥ by <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> :)</p>
+          <p>Made with ♥ by <a target="_blank" href="https://www.facebook.com/AgileFloripa/">Agile Floripa</a> with <a target="_blank" href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> :)</p>
         </footer>
         <!-- / FOOTER -->
       </div>
