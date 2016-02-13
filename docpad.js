@@ -11,7 +11,7 @@ module.exports = {
       description: "Conference description",
       date: "12 de Março",
       // If your event is free, just comment this line
-      price: "R$ 20,00",
+      price: "R$ 50,00",
       venue: "CESUSC",
       address: "CESUSC: SC-401, 9301 - Santo Antonio de Lisboa",
       city: "Floripa",
@@ -45,7 +45,7 @@ module.exports = {
       'location',
       'schedule',
       'speakers',
-      'sponsors',
+      //'sponsors',
       'partners'
       // 'contact'
     ],
@@ -71,9 +71,9 @@ module.exports = {
         name: "Simone Pittner",
         photo: "themes/agile-floripa/img/speaker/SimonePittner.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
+        company: "Adaptworks",
         link: {
-          href: "http://twitter.com/linus",
+          href: "http://twitter.com/simonepittner",
           text: "@simonepittner"
         },
         presentation: {
@@ -114,9 +114,9 @@ module.exports = {
         name: "Manoel Pimentel",
         photo: "themes/agile-floripa/img/speaker/ManoelPimentel.jpg",
         bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
+        company: "Adaptworks",
         link: {
-          href: "http://twitter.com/littlechuck",
+          href: "http://twitter.com/manoelp",
           text: "@manoelp"
         },
         presentation: {
@@ -134,7 +134,6 @@ module.exports = {
         time: "17:00"
       }
     ],
-
     // List of Sponsors
     sponsors: [
       {
@@ -147,8 +146,18 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
+        name: "Agile Brazil",
+        logo: "themes/agile-floripa/img/logoAgileBrazil.png",
+        url: "http://braziljs.org"
+      },
+      {
+        name: "Agile Alliance Brazil",
+        logo: "themes/agile-floripa/img/aa-logo-blue-text.png",
+        url: "http://braziljs.org"
+      },
+      {
+        name: "Agile Trends",
+        logo: "themes/agile-floripa/img/agile-trends.png",
         url: "http://braziljs.org"
       }
     ],
