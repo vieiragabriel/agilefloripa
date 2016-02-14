@@ -11,7 +11,7 @@ module.exports = {
       description: "Conference description",
       date: "12 de Março",
       // If your event is free, just comment this line
-      price: "R$ 20,00",
+      price: "R$ 50,00",
       venue: "CESUSC",
       address: "CESUSC: SC-401, 9301 - Santo Antonio de Lisboa",
       city: "Floripa",
