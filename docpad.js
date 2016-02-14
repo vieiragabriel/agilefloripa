@@ -113,15 +113,15 @@ module.exports = {
       {
         name: "Manoel Pimentel",
         photo: "themes/agile-floripa/img/speaker/ManoelPimentel.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
+        bio: "É Agile Coach/Trainer na Adaptworks Treinamentos e Presidente da Agile Alliance Brazil. Trabalha há mais de 18 anos na área de TI, onde possui uma profunda experiência em ajudar, como coach ou trainner, a transição/experimentação Ágil (Scrum, XP, FDD, Lean, SAFe) em grandes e complexas organizações (por exemplo: Sicoob, Bancoob, Stefanini, Oi, GVT, XP, Petrobras, ITA, Itaú, Localiza). Manoel é um dos pioneiros no movimento Ágil no Brasil. Ajudou na tradução oficial do Manifesto Ágil para o Português. É membro ativo da organização do Agile Brazil (inclusive sendo chairman da edição 2013). Ele também é o fundador da Revisa e Blog Visão Ágil. Já escreveu para portais internacionais como InfoQ, AgileJournal, ScrumAlliance, AgileAlliance e revistas como SQL Magazine, JavaMagazine, Mundo J e outras. Revisou e Escreveu o prefácio do Livro Agile Project Management (Editora AltaBooks) em Português e do Livro Scrum – Gestão Ágil para Projetos de Sucesso (Editora Casa do Código). Também é um co-autores do livro Métodos Ágeis para o Desenvolvimento de Software (Editora Bookman). É o mais ativo licensed trainer de Management 3.0 no Brasil, tendo inclusive, contribuído para formação e licenciamento de outros grandes facilitadores do cenário nacional. Também é detentor das certificações SPC (Scaled Agile Academy), CAC (Alpha Coach – WorthEthic), CSM, CSPO e CSP (ScrumAlliance).",
+        company: "Adaptworks",
         link: {
           href: "http://twitter.com/manoelp",
           text: "@manoelp"
         },
         presentation: {
           title: "The Teenage Mutant Ninja Agilists",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description: "Em breve",
           time: "16h00"
         }
       },
