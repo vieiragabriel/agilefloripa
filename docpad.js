@@ -34,7 +34,7 @@ module.exports = {
     site: {
       theme: "agile-floripa",
       url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      googleanalytics: "UA-73757058-1"
     },
 
     // Active sections on the website
