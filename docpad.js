@@ -147,9 +147,14 @@ module.exports = {
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "Agile Alliance Brazil",
+        logo: "themes/agile-floripa/img/partner/AgileAlliance.png",
+        url: "https://www.agilealliance.org/pt/"
+      },
+      {
+        name: "CESUSC",
+        logo: "themes/agile-floripa/img/partner/CESUSC.png",
+        url: "http://www.cesusc.edu.br/"
       }
     ],
 
