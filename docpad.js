@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Agile Floripa",
-      description: "Conference description",
+      description: "1º Agile Floripa",
       date: "12 de Março",
       // If your event is free, just comment this line
       price: "R$ 50,00",
