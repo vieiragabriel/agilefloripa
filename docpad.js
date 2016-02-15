@@ -71,7 +71,7 @@ module.exports = {
         name: "Simone Pittner",
         photo: "themes/agile-floripa/img/speaker/SimonePittner.jpg",
         bio: "Engenheira de Telecomunicações e Software, Psicopedagoga e CSP e outras siglas :P. Entusiasta de agilidade, com experiência práticas. Empreendedora na BLUEAgile, Trainer da Adaptworks, ex-COO da SocialBase. Mãe, bailarina aposentada, eterna curiosa, Paixão por pessoas, praia e natureza e cuupcakes. Membro da comissão organizadora do Agile Brasil desde 2012 e Agile Trends São Paulo desde 2013.",
-        company: "Linux Foundation",
+        company: "",
         link: {
           href: "http://twitter.com/simonepittner",
           text: "@simonepittner"
