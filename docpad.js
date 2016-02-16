@@ -45,7 +45,7 @@ module.exports = {
       'location',
       'schedule',
       'speakers',
-      //'sponsors',
+      'sponsors',
       'partners'
       // 'contact'
     ],
@@ -138,19 +138,14 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        name: "Agile Alliance Brazil",
+        logo: "themes/agile-floripa/img/sponsor/agilealliance-brazil_inverted_box.png",
+        url: "https://www.agilealliance.org/pt/"
       }
     ],
 
     // List of Partners
     partners: [
-      {
-        name: "Agile Alliance Brazil",
-        logo: "themes/agile-floripa/img/partner/AgileAlliance.png",
-        url: "https://www.agilealliance.org/pt/"
-      },
       {
         name: "CESUSC",
         logo: "themes/agile-floripa/img/partner/CESUSC.png",
