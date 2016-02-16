@@ -121,7 +121,7 @@ module.exports = {
         },
         presentation: {
           title: "The Teenage Mutant Ninja Agilists",
-          description: "Em breve",
+          description: "Nessa palestra, você vai conhecer a história dos Teenage Mutant Ninja Agilists. Um TMNA é um verdadeiro bicho estranho. Um adolescente, que recém chegou aos 15 anos. Adolescente que ao mesmo tempo encanta, por sua destreza, também pode assustar por ser tão difícil de compreender/conviver. Que ao mesmo tempo que pode ajudar  a eliminar desperdícios e na criação valor para toda a cadeia de negócio, pode ser extremamente mortal quando nas mãos erradas. Essa é uma palestra do tipo provocativa-reflexiva-autobiográfica que objetiva fazer uma grande revisão através de histórias reais de sucesso e falhas em experimentações ágeis.  Toda essa revisão será importante para entender o que são os métodos ágeis e, para onde eles irão face aos novos desafios que a adolescência e a vida adulta estão mostrando.",
           time: "16h00"
         }
       },
