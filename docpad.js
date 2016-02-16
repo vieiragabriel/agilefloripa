@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Agile Floripa",
-      description: "Conference description",
+      description: "1º Agile Floripa dia 12 de Março de 2016",
       date: "12 de Março",
       // If your event is free, just comment this line
       price: "R$ 50,00",
@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Increva-se!",
-        link: "http://eventick.com.br"
+        link: "https://inscricoes.agilebrazil.com/events/18/attendances/new"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
@@ -34,7 +34,7 @@ module.exports = {
     site: {
       theme: "agile-floripa",
       url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      googleanalytics: "UA-73757058-1"
     },
 
     // Active sections on the website
@@ -70,15 +70,15 @@ module.exports = {
       {
         name: "Simone Pittner",
         photo: "themes/agile-floripa/img/speaker/SimonePittner.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Adaptworks",
+        bio: "Engenheira de Telecomunicações e Software, Psicopedagoga e CSP e outras siglas :P. Entusiasta de agilidade, com experiência práticas. Empreendedora na BLUEAgile, Trainer da Adaptworks, ex-COO da SocialBase. Mãe, bailarina aposentada, eterna curiosa, Paixão por pessoas, praia e natureza e cuupcakes. Membro da comissão organizadora do Agile Brasil desde 2012 e Agile Trends São Paulo desde 2013.",
+        company: "BLUEAgile",
         link: {
           href: "http://twitter.com/simonepittner",
           text: "@simonepittner"
         },
         presentation: {
           title: "Desajustados",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          description: "\"Aqui estão os loucos. Os desajustados. Os rebeldes. Os encrenqueiros. Os que fogem ao padrão. Aqueles que veem as coisas de um jeito diferente. Eles não se adaptam às regras, nem respeitam o status quo. Você pode citá-los ou achá-los desagradáveis, glorificá-los ou desprezá-los. Mas a única coisa que você não pode fazer é ignorá-los. Porque eles mudam as coisas. Eles empurram adiante a raça humana. E enquanto alguns os veem como loucos, nós os vemos como gênios. Porque as pessoas que são loucas o bastante para pensarem que podem mudar o mundo são as únicas que realmente podem fazê-lo.\" | Jack Kerouac. Isso é ser Agile!",
           time: "10:20"
         }
       },
@@ -113,15 +113,15 @@ module.exports = {
       {
         name: "Manoel Pimentel",
         photo: "themes/agile-floripa/img/speaker/ManoelPimentel.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+        bio: "É Agile Coach/Trainer na Adaptworks Treinamentos e Presidente da Agile Alliance Brazil. Trabalha há mais de 18 anos na área de TI, onde possui uma profunda experiência em ajudar, como coach ou trainner, a transição/experimentação Ágil (Scrum, XP, FDD, Lean, SAFe) em grandes e complexas organizações (por exemplo: Sicoob, Bancoob, Stefanini, Oi, GVT, XP, Petrobras, ITA, Itaú, Localiza). Manoel é um dos pioneiros no movimento Ágil no Brasil. Ajudou na tradução oficial do Manifesto Ágil para o Português. É membro ativo da organização do Agile Brazil (inclusive sendo chairman da edição 2013). Ele também é o fundador da Revisa e Blog Visão Ágil. Já escreveu para portais internacionais como InfoQ, AgileJournal, ScrumAlliance, AgileAlliance e revistas como SQL Magazine, JavaMagazine, Mundo J e outras. Revisou e Escreveu o prefácio do Livro Agile Project Management (Editora AltaBooks) em Português e do Livro Scrum – Gestão Ágil para Projetos de Sucesso (Editora Casa do Código). Também é um co-autores do livro Métodos Ágeis para o Desenvolvimento de Software (Editora Bookman). É o mais ativo licensed trainer de Management 3.0 no Brasil, tendo inclusive, contribuído para formação e licenciamento de outros grandes facilitadores do cenário nacional. Também é detentor das certificações SPC (Scaled Agile Academy), CAC (Alpha Coach – WorthEthic), CSM, CSPO e CSP (ScrumAlliance).",
         company: "Adaptworks",
         link: {
           href: "http://twitter.com/manoelp",
           text: "@manoelp"
         },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "The Teenage Mutant Ninja Agilists",
+          description: "Nessa palestra, você vai conhecer a história dos Teenage Mutant Ninja Agilists. Um TMNA é um verdadeiro bicho estranho. Um adolescente, que recém chegou aos 15 anos. Adolescente que ao mesmo tempo encanta, por sua destreza, também pode assustar por ser tão difícil de compreender/conviver. Que ao mesmo tempo que pode ajudar  a eliminar desperdícios e na criação valor para toda a cadeia de negócio, pode ser extremamente mortal quando nas mãos erradas. Essa é uma palestra do tipo provocativa-reflexiva-autobiográfica que objetiva fazer uma grande revisão através de histórias reais de sucesso e falhas em experimentações ágeis.  Toda essa revisão será importante para entender o que são os métodos ágeis e, para onde eles irão face aos novos desafios que a adolescência e a vida adulta estão mostrando.",
           time: "16h00"
         }
       },
@@ -137,9 +137,9 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        name: "Agile Alliance Brazil",
+        logo: "themes/agile-floripa/img/sponsor/agilealliance-brazil_inverted_box.png",
+        url: "https://www.agilealliance.org/pt/"
       }
     ],
 
@@ -151,14 +151,14 @@ module.exports = {
         url: "http://braziljs.org"
       },
       {
-        name: "Agile Alliance Brazil",
-        logo: "themes/agile-floripa/img/aa-logo-blue-text.png",
-        url: "http://braziljs.org"
-      },
-      {
         name: "Agile Trends",
         logo: "themes/agile-floripa/img/agile-trends.png",
         url: "http://braziljs.org"
+      },
+      {
+        name: "CESUSC",
+        logo: "themes/agile-floripa/img/partner/CESUSC.png",
+        url: "http://www.cesusc.edu.br/"
       }
     ],
 
