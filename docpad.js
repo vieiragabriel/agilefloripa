@@ -182,6 +182,11 @@ module.exports = {
         name: "PHP SC",
         logo: "themes/agile-floripa/img/partner/phpsc.png",
         url: "http://www.phpsc.com.br/"
+      },
+      {
+        name: "Tá Safo",
+        logo: "themes/agile-floripa/img/partner/TaSafo.png",
+        url: "http://tasafo.org/"
       }
     ],
 
