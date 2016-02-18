@@ -64,6 +64,10 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
+        name: "Credenciamento + Coffee",
+        time: "09:15"
+      },
+      {
         name: "Abertura",
         time: "10:00"
       },
@@ -83,32 +87,36 @@ module.exports = {
         }
       },
       {
-        name: "Talks",
+        name: "Talk/fishbowl/painel 1",
         time: "11:10"
       },
       {
-        name: "Coffee",
-        time: "11:50"
+        name: "Talk/fishbowl/painel 2",
+        time: "11:35"
       },
       {
-        name: "Talks",
-        time: "12:10"
+        name: "Talk/fishbowl/painel 3",
+        time: "12:00"
       },
       {
-        name: "Almoço",
-        time: "12:50"
+        name: "Talk/fishbowl/painel 4",
+        time: "12:25"
       },
       {
-        name: "Talks",
+        name: "Talk/fishbowl/painel 5",
         time: "14:20"
       },
       {
-        name: "Talks",
-        time: "15:00"
+        name: "Talk/fishbowl/painel 6",
+        time: "14:45"
+      },
+      {
+        name: "Talk/fishbowl/painel 7",
+        time: "15:10"
       },
       {
         name: "Coffee",
-        time: "15:40"
+        time: "15:35"
       },
       {
         name: "Manoel Pimentel",
@@ -126,12 +134,12 @@ module.exports = {
         }
       },
       {
-        name: "Encerramento",
+        name: "Encerramento + Sorteios",
         time: "16:50"
       },
       {
         name: "Happy Hour",
-        time: "17:00"
+        time: "17:10"
       }
     ],
     // List of Sponsors
