@@ -1,6 +1,7 @@
 <h2 class="section-title"><%= @labels['schedule'] %></h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+
+<p>Nosso programa foi construído pela e para a comunidade a fim de atender todos os tipos de público e conhecimento, contando com profissionais locais em sua grande maioria. Qualquer mudança será comunicada no dia do evento ou pelas nossas redes sociais.</p>
+
 <div class="schedule-tbl">
   <table>
     <thead>
