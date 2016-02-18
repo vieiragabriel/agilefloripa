@@ -146,19 +146,34 @@ module.exports = {
     // List of Partners
     partners: [
       {
+        name: "Agile Alliance Brazil",
+        logo: "themes/agile-floripa/img/sponsor/agilealliance-brazil_inverted_box.png",
+        url: "https://www.agilealliance.org/pt/"
+      },
+      {
         name: "Agile Brazil",
-        logo: "themes/agile-floripa/img/logoAgileBrazil.png",
+        logo: "themes/agile-floripa/img/partner/logoAgileBrazil.png",
         url: "http://braziljs.org"
       },
       {
         name: "Agile Trends",
-        logo: "themes/agile-floripa/img/agile-trends.png",
+        logo: "themes/agile-floripa/img/partner/agile-trends.png",
         url: "http://braziljs.org"
       },
       {
         name: "CESUSC",
         logo: "themes/agile-floripa/img/partner/CESUSC.png",
         url: "http://www.cesusc.edu.br/"
+      },
+      {
+        name: "Scrum Rion",
+        logo: "themes/agile-floripa/img/partner/scrumrio.png",
+        url: "http://scrumrio.com/"
+      },
+      {
+        name: "PHP SC",
+        logo: "themes/agile-floripa/img/partner/phpsc.png",
+        url: "http://www.phpsc.com.br/"
       }
     ],
 
