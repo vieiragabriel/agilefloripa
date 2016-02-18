@@ -7,9 +7,11 @@
 <!-- HEADER -->
 <header class="header">
   <div class="wrapper">
-    <h1 class="logo-name">
-      <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name"><%= @conf.name %></a>
-    </h1>
+    <div class="logo-name">
+      <a class="logo-link" href="#" title="<%= @conf.name %>" itemprop="name">
+        <img class="logo-img" src="themes/agile-floripa/img/agilefloripa-logo.png" alt="Agile Floripa" />
+      </a>
+    </div>
     <h2 class="tagline"><%= @conf.date %>, <%= @conf.venue %>, <%= @conf.city %></h2>
 
     <% if @conf.price || @callToAction: %>
