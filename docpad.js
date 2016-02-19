@@ -21,7 +21,7 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Increva-se!",
+        text: "Inscreva-se!",
         link: "https://inscricoes.agilebrazil.com/events/18/attendances/new"
     },
 
@@ -101,6 +101,10 @@ module.exports = {
       {
         name: "Talk/fishbowl/painel 4",
         time: "12:25"
+      },
+      {
+        name: "Almoço",
+        time: "12:50"
       },
       {
         name: "Talk/fishbowl/painel 5",
