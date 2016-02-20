@@ -46,7 +46,8 @@ module.exports = {
       'schedule',
       'speakers',
       //'sponsors',
-      'partners'
+      'partners',
+      'faq'
       // 'contact'
     ],
 
@@ -58,6 +59,7 @@ module.exports = {
       schedule: "Grade",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
+      faq: "FAQ",
       contact: "Contato"
     },
 
