@@ -167,12 +167,12 @@ module.exports = {
       {
         name: "Agile Brazil",
         logo: "themes/agile-floripa/img/partner/logoAgileBrazil.png",
-        url: "http://braziljs.org"
+        url: "http://www.agilebrazil.com"
       },
       {
         name: "Agile Trends",
         logo: "themes/agile-floripa/img/partner/agile-trends.png",
-        url: "http://braziljs.org"
+        url: "http://agiletrendsbr.com/"
       },
       {
         name: "CESUSC",
