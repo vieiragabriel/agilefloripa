@@ -107,7 +107,7 @@ module.exports = {
         company: "Bravi",
         presentation: {
           title: "Fishbowl: Interação entre PO e UX Designer em projetos agile. Quem dá a palavra final?",
-          description: "Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos.",
+          description: "Tanto o PO e UX Designer são cheios de opiniões e de razões. O PO traz os requisitos de alto nível e desafios, mas cabe ao UX trabalhar através de pesquisas, protótipos e validações para dar vida às idéias. Muitas vezes, o UX designer toma liberdades (ops!) e não segue as exigências exatamente por causa de suas próprias crenças e dos padrões de design Quem deve possuir a decisão final? PO: O PO claro. Melhor fazer uma UI feia que atende o que o cliente quer UX Designer: Capaz! O Designer claro! O cliente não sabe o que quer até que a gente mostre a ele. E agora? Como eles devem trabalhar juntos? Vamos falar do que estamos fazendo/aprendendo/desenvolvendo aqui na Bravi, e chamar a galera pra colaborar",
           time: "11:35"
         }
       },
