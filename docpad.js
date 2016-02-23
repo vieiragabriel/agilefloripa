@@ -238,6 +238,11 @@ module.exports = {
         name: "Tá Safo",
         logo: "themes/agile-floripa/img/partner/TaSafo.png",
         url: "http://tasafo.org/"
+      },
+      {
+        name: "Caipira Ágil",
+        logo: "themes/agile-floripa/img/partner/caipira.png",
+        url: "http://www.caipiraagil.com/"
       }
     ],
 
