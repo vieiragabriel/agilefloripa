@@ -381,7 +381,8 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
-.about {
+.about,
+.about_schedule {
   padding: 19px;
   margin: 0 -20px 0;
 }
@@ -412,6 +413,7 @@ nav {
   font-size: 18px;
   padding: 10px 15px;
   letter-spacing: -0.03em;
+  display: inline-block;
 }
 .speakers-name {
   font-size: 1.6em;
@@ -432,7 +434,7 @@ nav {
 .schedule-tbl td,
 .schedule-tbl th {
   position: relative;
-  padding: 20px 30px;
+  padding: 20px 20px;
   font-size: 1.4em;
   line-height: 1.4em;
   text-align: left;
@@ -460,6 +462,7 @@ nav {
 .speakers-company {
   display: block;
   font-size: 12px;
+  margin-left: 60px;
 }
 /* =============================================================================
    SPONSORS  and  PARTNERS
@@ -540,7 +543,8 @@ nav {
     box-sizing: border-box;
   }
   .about,
-  .faq {
+  .faq,
+  .about_schedule {
     margin: 0;
   }
 }
@@ -782,7 +786,8 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
-.about {
+.about,
+.about_schedule {
   border: 1px solid #e7e7e7;
   background: #fff;
   border-radius: 4px;
