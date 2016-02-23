@@ -89,36 +89,78 @@ module.exports = {
         }
       },
       {
-        name: "Talk/fishbowl/painel 1",
-        time: "11:10"
+        name: "Rafa Caceres",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Taller",
+        presentation: {
+          title: "Talk: Kanban no fluxo único de portfolio de projetos",
+          description: "Contar a experiência da taller com fluxo único e como  isso vem nos ajudando a lidar com a variabilidade na entrada de projetos para clientes, além de mostrar alguns modelos de trabalho sem estimativas, feedback constante, métricas que importam e integração de toda cadeia de valor.",
+          time: "11:10"
+        }
       },
       {
-        name: "Talk/fishbowl/painel 2",
-        time: "11:35"
+        name: "Priscila Machado e Rodrigo Vieira",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Bravi",
+        presentation: {
+          title: "Fishbowl: Interação entre PO e UX Designer em projetos agile. Quem dá a palavra final?",
+          description: "Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos.",
+          time: "11:35"
+        }
       },
       {
-        name: "Talk/fishbowl/painel 3",
-        time: "12:00"
+        name: "João Eduardo Hornburg",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "",
+        presentation: {
+          title: "Talk: Qualidade: na prática a teoria é outra",
+          description: "No desenvolvimento ágil de software, qualidade é um dos aspectos mais valorizados. Ou deveria ser. A maioria dos desenvolvedores tem boas noções de como entregar software com qualidade, pelo menos em teoria. Práticas como TDD, pair programming, clean code, entre outras, deveriam garantir a qualidade da nossa entrega. Mas na prática, continuamos entregando software com baixa qualidade. Nessa apresentação, vou expor algumas hipóteses sobre o porque de mesmo sabendo a teoria, nossa prática ser tão diferente.",
+          time: "12:00"
+        }
       },
       {
-        name: "Talk/fishbowl/painel 4",
-        time: "12:25"
+        name: "Carol Wirtti",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "",
+        presentation: {
+          title: "Talk: “No estimate” do jeito errado",
+          description: "Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos. ",
+          time: "12:25"
+        }
       },
       {
         name: "Almoço",
         time: "12:50"
       },
       {
-        name: "Talk/fishbowl/painel 5",
-        time: "14:20"
+        name: "Gabriel Vieira",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Evolução Ágil",
+        presentation: {
+          title: "Fishbowl: Como meu time é meu amante?!?!",
+          description: "Dividir a vida com a pessoa amada não é fácil, imagina só dividir uma sprint com aquele \"criador ambulante de bug que se chama de profissional\"? Vamos conversar sobre como fazer para conseguir amenizar ou resolver conflitos como estes e o que pode ser feito para notar a auto sabotagem e o mimimi sem fim!",
+          time: "14:20"
+        }
       },
       {
-        name: "Talk/fishbowl/painel 6",
-        time: "14:45"
+        name: "Samuel Crescencio",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Lean IT 101",
+        presentation: {
+          title: "Talk: Lean e Agile Aplicado em áreas fora da TI",
+          description: "Nessa talk vamos trazer cases de como exploramos os benefĩcios da gestão de fluxo para gerenciar processos de negócio de áreas não TI. Vamos estudar 1 how to e 2 cases da aplicação de mapeamento do fluxo de valor e kanban para gestão de fluxo: 1 - no governo, envolvendo a transformação do escritório de projetos do Datasus, no Ministério da Saúde, com um portfólio de milhões de reais. 2 - Gestão de Pessoas - Como agilizamos o departamento de desenvolvimento humano da Blue Ticket aplicando o kanban para gestão do fluxo de contratações e para a gestão de atividades. De quebra, vou deixar um how to sobre como aplicar o kanban para gestão de marketing e vendas.",
+          time: "14:45"
+        }
       },
       {
-        name: "Talk/fishbowl/painel 7",
-        time: "15:10"
+        name: "Juliano Ribeiro",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Objective Solutions",
+        presentation: {
+          title: "Talk: Controlefobia",
+          description: "Processos e equipes ágeis são caracterizados por terem poucas regras, poucas imposições e muita liberdade. Nesse contexto falar de controle acaba sendo quase um sacrilégio, um pecado passivo de uma dolorosa penitência. Mas esse termo é mal compreendido no universo ágil. O problema em si não é o controle, mas o que fazemos para obtê-lo: Se comprometemos os valores e princípios ágeis para ter controle isso faz dele um vilão. Mas agora se conseguimos ter controle mantendo os valores e princípios intactos ele se torna uma poderosa ferramenta para evolução e melhoria em processos agéis. Mas é possível ter controle e não comprometer nossos valores? Nessa palestra vamos demonstrar essa possibilidade e, principalmente, desfazer seu preconceito.",
+          time: "15:10"
+        }
       },
       {
         name: "Coffee",
