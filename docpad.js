@@ -50,6 +50,9 @@ module.exports = {
       'faq'
       // 'contact'
     ],
+    sections_schedule: [
+      'about_schedule'
+    ],
 
     // Labels which you can translate to other languages
     labels: {
