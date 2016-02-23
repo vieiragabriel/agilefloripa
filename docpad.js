@@ -111,7 +111,7 @@ module.exports = {
       {
         name: "João Eduardo Hornburg",
         photo: "themes/agile-floripa/img/speaker/user.png",
-        company: "",
+        company: "Resultados Digitais",
         presentation: {
           title: "Talk: Qualidade: na prática a teoria é outra",
           description: "No desenvolvimento ágil de software, qualidade é um dos aspectos mais valorizados. Ou deveria ser. A maioria dos desenvolvedores tem boas noções de como entregar software com qualidade, pelo menos em teoria. Práticas como TDD, pair programming, clean code, entre outras, deveriam garantir a qualidade da nossa entrega. Mas na prática, continuamos entregando software com baixa qualidade. Nessa apresentação, vou expor algumas hipóteses sobre o porque de mesmo sabendo a teoria, nossa prática ser tão diferente.",
@@ -121,7 +121,7 @@ module.exports = {
       {
         name: "Carol Wirtti",
         photo: "themes/agile-floripa/img/speaker/user.png",
-        company: "",
+        company: "Digitho",
         presentation: {
           title: "Talk: “No estimate” do jeito errado",
           description: "Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos. ",
