@@ -122,7 +122,7 @@ module.exports = {
         }
       },
       {
-        name: "Carol Wirtti",
+        name: "Carol Wirtti e Samuel Cavalcante",
         photo: "themes/agile-floripa/img/speaker/user.png",
         company: "Digitho",
         presentation: {
