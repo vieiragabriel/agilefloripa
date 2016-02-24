@@ -33,7 +33,7 @@ module.exports = {
     // Site info
     site: {
       theme: "agile-floripa",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://agilefloripa.com.br",
       googleanalytics: "UA-73757058-1"
     },
 
