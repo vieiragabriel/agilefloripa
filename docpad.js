@@ -92,9 +92,13 @@ module.exports = {
         }
       },
       {
-        name: "Rafa Caceres",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        name: "Rafael Caceres",
+        photo: "themes/agile-floripa/img/speaker/rafael-caceres.jpg",
         company: "Taller",
+        link: {
+          href: "http://twitter.com/rafaelcaceres",
+          text: "@rafaelcaceres"
+        },
         presentation: {
           title: "Talk: Kanban no fluxo único de portfolio de projetos",
           description: "Contar a experiência da taller com fluxo único e como  isso vem nos ajudando a lidar com a variabilidade na entrada de projetos para clientes, além de mostrar alguns modelos de trabalho sem estimativas, feedback constante, métricas que importam e integração de toda cadeia de valor.",
@@ -103,8 +107,13 @@ module.exports = {
       },
       {
         name: "Priscila Machado e Rodrigo Vieira",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/priscila-machado.png",
         company: "Bravi",
+        bio: "UX Designer. Programadora. Agilista. Diferentona do TI desde 2004.Louca do Design Thinking, Lean Startup e tudo que se relaciona a entrega de valor ao usuário. Praticante de esportes, danças e atividades aleatórias e não relacionadas. Engajada em confraternizações que contenham coxinha e cerveja.",
+        link: {
+          href: "https://twitter.com/agirlnamedpri",
+          text: "@agirlnamedpri"
+        },
         presentation: {
           title: "Fishbowl: Interação entre PO e UX Designer em projetos agile. Quem dá a palavra final?",
           description: "Tanto o PO e UX Designer são cheios de opiniões e de razões. O PO traz os requisitos de alto nível e desafios, mas cabe ao UX trabalhar através de pesquisas, protótipos e validações para dar vida às idéias. Muitas vezes, o UX designer toma liberdades (ops!) e não segue as exigências exatamente por causa de suas próprias crenças e dos padrões de design Quem deve possuir a decisão final? PO: O PO claro. Melhor fazer uma UI feia que atende o que o cliente quer UX Designer: Capaz! O Designer claro! O cliente não sabe o que quer até que a gente mostre a ele. E agora? Como eles devem trabalhar juntos? Vamos falar do que estamos fazendo/aprendendo/desenvolvendo aqui na Bravi, e chamar a galera pra colaborar",
@@ -137,8 +146,12 @@ module.exports = {
       },
       {
         name: "Gabriel Vieira",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/gabriel-vieira.jpg",
         company: "Evolução Ágil",
+        link: {
+          href: "https://twitter.com/gabrielvieira",
+          text: "@gabrielvieira"
+        },
         presentation: {
           title: "Fishbowl: Como meu time é meu amante?!?!",
           description: "Dividir a vida com a pessoa amada não é fácil, imagina só dividir uma sprint com aquele \"criador ambulante de bug que se chama de profissional\"? Vamos conversar sobre como fazer para conseguir amenizar ou resolver conflitos como estes e o que pode ser feito para notar a auto sabotagem e o mimimi sem fim!",
@@ -147,8 +160,12 @@ module.exports = {
       },
       {
         name: "Samuel Crescencio",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/samuel-crescencio.jpg",
         company: "Lean IT 101",
+        link: {
+          href: "https://twitter.com/screscencio",
+          text: "@screscencio"
+        },
         presentation: {
           title: "Talk: Lean e Agile Aplicado em áreas fora da TI",
           description: "Nessa talk vamos trazer cases de como exploramos os benefĩcios da gestão de fluxo para gerenciar processos de negócio de áreas não TI. Vamos estudar 1 how to e 2 cases da aplicação de mapeamento do fluxo de valor e kanban para gestão de fluxo: 1 - no governo, envolvendo a transformação do escritório de projetos do Datasus, no Ministério da Saúde, com um portfólio de milhões de reais. 2 - Gestão de Pessoas - Como agilizamos o departamento de desenvolvimento humano da Blue Ticket aplicando o kanban para gestão do fluxo de contratações e para a gestão de atividades. De quebra, vou deixar um how to sobre como aplicar o kanban para gestão de marketing e vendas.",
@@ -157,8 +174,13 @@ module.exports = {
       },
       {
         name: "Juliano Ribeiro",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/juliano-ribeiro.jpg",
         company: "Objective Solutions",
+        bio: "Especialista em Orientação à objetos pelo CESUMAR, é Certified Scrum Professional pela Scrum Alliance, Learning 3.0 Facilitator pela Happy Melly e Certified Delphi Developer pela Embarcadero. Desenvolve software profissionalmente desde 1994. Possui projetos em diversas linguagens como Clipper, Delphi, Java, iOS e Android. Experiência em liderança de equipes de desenvolvimento tendo implementado práticas de XP e Scrum em diversas empresas. Trabalha como Team Member, Scrum Master e Agile Coach desde 2009. Leciona treinamentos de Scrum, Kanban e XP. Organiza e apoia edições do Agile Tour desde 2009. É palestrante recorrente nos principais eventos sobre agilidade no Brasil e no exterior. É o chairman da edição 2016 do Agile Brazil, a maior conferência sobre o assunto na América Latina. Na Objective Solutions atua como profissional sênior, em consultoria e especificação.",
+        link: {
+          href: "http://twitter.com/JulianoRibeiro",
+          text: "@JulianoRibeiro"
+        },
         presentation: {
           title: "Talk: Controlefobia",
           description: "Processos e equipes ágeis são caracterizados por terem poucas regras, poucas imposições e muita liberdade. Nesse contexto falar de controle acaba sendo quase um sacrilégio, um pecado passivo de uma dolorosa penitência. Mas esse termo é mal compreendido no universo ágil. O problema em si não é o controle, mas o que fazemos para obtê-lo: Se comprometemos os valores e princípios ágeis para ter controle isso faz dele um vilão. Mas agora se conseguimos ter controle mantendo os valores e princípios intactos ele se torna uma poderosa ferramenta para evolução e melhoria em processos agéis. Mas é possível ter controle e não comprometer nossos valores? Nessa palestra vamos demonstrar essa possibilidade e, principalmente, desfazer seu preconceito.",
