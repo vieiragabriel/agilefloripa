@@ -148,6 +148,7 @@ module.exports = {
         name: "Gabriel Vieira",
         photo: "themes/agile-floripa/img/speaker/gabriel-vieira.jpg",
         company: "Evolução Ágil",
+		bio: "Engenheiro de Software com DevOps na veia! Atua como consultor e engeheiro em projetos voltados para Educação a Distâncis, pensando sempre em sistemas com forte customização, alta complexidade e disponibilidade. Realiza consultoria para auxiliar a reorganizar times de software utilizandos princípios ágeis, DevOps e boas práticas, independete de linguagem de programação. Atua na comunidade ágil desde 2009, é parte do comite do Agile Brazil à 3 anos e apaixondo pelas pessoas e suas interações.",
         link: {
           href: "https://twitter.com/gabrielvieira",
           text: "@gabrielvieira"
