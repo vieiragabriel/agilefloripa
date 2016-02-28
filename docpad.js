@@ -94,6 +94,7 @@ module.exports = {
       {
         name: "Rafael Caceres",
         photo: "themes/agile-floripa/img/speaker/rafael-caceres.jpg",
+        bio: "Empreendedor-Fluxonomista-Desenvolvedor e Cientista da Computação pela Universidade Estadual do Oeste do Paraná tem 15 anos de experiência com desenvolvimento web. É um dos fundadores da Taller, um ateliê de negócios digitais que cria produtos sob medida para seus clientes, onde trabalha com gestão de fluxo. É parte do time que organiza a Agile Brazil. Entusiasta do software livre, viciado em seriados e livros, gosta muito de xadrez, anarquismo, cozinhar e gerar ideias mirabolantes.",
         company: "Taller",
         link: {
           href: "http://twitter.com/rafaelcaceres",
@@ -107,15 +108,15 @@ module.exports = {
       },
       {
         name: "Priscila Machado e Rodrigo Vieira",
-        photo: "themes/agile-floripa/img/speaker/priscila-machado.png",
+        photo: "themes/agile-floripa/img/speaker/priscila-rodrigo.jpg",
         company: "Bravi",
-        bio: "UX Designer. Programadora. Agilista. Diferentona do TI desde 2004.Louca do Design Thinking, Lean Startup e tudo que se relaciona a entrega de valor ao usuário. Praticante de esportes, danças e atividades aleatórias e não relacionadas. Engajada em confraternizações que contenham coxinha e cerveja.",
+        bio: "Priscila é: UX Designer. Programadora. Agilista. Diferentona do TI desde 2004. Louca do Design Thinking, Lean Startup e tudo que se relaciona a entrega de valor ao usuário. Praticante de esportes, danças e atividades aleatórias e não relacionadas. Engajada em confraternizações que contenham coxinha e cerveja. Rodrigo é nerd de nascença, rei da piada fraca, formado em computação na Federal do ES, trabalha com desenvolvimento Web desde os tempos do Netscape e HotDog. Adora estudar e se envolver em todo tipo de iniciativa: agile, user research,  UX, copywriting, tradução, data science, matemática, programação funcional, reativa, etc etc. No momento atua como Product Owner na Bravi Software, focado em produtos de análise preditiva e de comportamento no setor educacional. É pai do Henrique e casado com outra nerd, garantindo o futuro da espécie.",
         link: {
           href: "https://twitter.com/agirlnamedpri",
           text: "@agirlnamedpri"
         },
         presentation: {
-          title: "Fishbowl: Interação entre PO e UX Designer em projetos agile. Quem dá a palavra final?",
+          title: "Fishbowl: Interação entre PO e UX Designer. Quem dá a palavra final?",
           description: "Tanto o PO e UX Designer são cheios de opiniões e de razões. O PO traz os requisitos de alto nível e desafios, mas cabe ao UX trabalhar através de pesquisas, protótipos e validações para dar vida às idéias. Muitas vezes, o UX designer toma liberdades (ops!) e não segue as exigências exatamente por causa de suas próprias crenças e dos padrões de design Quem deve possuir a decisão final? PO: O PO claro. Melhor fazer uma UI feia que atende o que o cliente quer UX Designer: Capaz! O Designer claro! O cliente não sabe o que quer até que a gente mostre a ele. E agora? Como eles devem trabalhar juntos? Vamos falar do que estamos fazendo/aprendendo/desenvolvendo aqui na Bravi, e chamar a galera pra colaborar",
           time: "11:35"
         }
