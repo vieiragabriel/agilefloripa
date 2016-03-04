@@ -133,9 +133,10 @@ module.exports = {
         }
       },
       {
-        name: "Carol Wirtti e Samuel Cavalcante",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        name: "Samuel Cavalcante e Carol Wirtti",
+        photo: "themes/agile-floripa/img/speaker/samuel-carol.jpg",
         company: "Digitho",
+        bio: "Samuel Cavalcante : Engenheiro de Computação residente em Campo Grande MS, Esp. Engenharia de Sistemas, atuando como Scrum Master na DígithoBrasil Soluções em Software e como docente no ensino superior na UNIDERP. Fomentador de comunidades de Tecnologia no MS e vice presidente da Sucesu-MS. Estudante e praticante das melhores práticas de Gestão de TI, Engenharias de Software e Agilista de carteirinha. Carol Wirtti: Experiência mais de 10 anos na área de desenvolvimento de software, atuando no mercado público e privado. Trabalhando como Product Owner na Digitho Brasil e a mais de 4 anos com metodologias ágeis.",
         presentation: {
           title: "Talk: “No estimate” do jeito errado",
           description: "Sabe aquela sensação de estar trabalhando entregando e parecer que não entrega nada, pois é, foi o que aconteceu quando resolvemos parar de estimar. Quando resolvemos fazer isso acreditávamos na felicidade e caímos no “Extreme Go Horse”. Quero apresentar o que levou nossos times a chegar ao XGH e como saímos dele, sem estimar em pontos. ",
