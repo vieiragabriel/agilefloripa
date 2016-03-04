@@ -123,8 +123,9 @@ module.exports = {
       },
       {
         name: "João Eduardo Hornburg",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/joao_hornburg.jpg",
         company: "Resultados Digitais",
+        bio: "João Hornburg é formado em computação pela UFSC. Trabalha com desenvolvimento ágil desde 2009, tendo passado por diversas tecnologias, processos e produtos. Atualmente é Scrum Master na Resultados Digitais, onde seu maior foco está em alavancar a produtividade e a qualidade das entregas do time.",
         presentation: {
           title: "Talk: Qualidade: na prática a teoria é outra",
           description: "No desenvolvimento ágil de software, qualidade é um dos aspectos mais valorizados. Ou deveria ser. A maioria dos desenvolvedores tem boas noções de como entregar software com qualidade, pelo menos em teoria. Práticas como TDD, pair programming, clean code, entre outras, deveriam garantir a qualidade da nossa entrega. Mas na prática, continuamos entregando software com baixa qualidade. Nessa apresentação, vou expor algumas hipóteses sobre o porque de mesmo sabendo a teoria, nossa prática ser tão diferente.",
