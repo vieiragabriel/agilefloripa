@@ -27,6 +27,9 @@
     <% end %>
   </div>
 </header>
+<script>
+ var ElTracker = [];(function(){ var el = document.createElement('script');el.defer = true;el.type = 'text/javascript';el.async = true;el.src = "http://eltracker.io/";el.src += window === window.parent ? "project/cdn/afb73b83-2c53-4c86-82c1-dee214e79b5a" : "project/cdn/editor/afb73b83-2c53-4c86-82c1-dee214e79b5a";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(el, s);})();
+</script>
 <!--  / HEADER -->
 
 <hr>
