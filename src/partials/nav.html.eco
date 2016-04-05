@@ -6,6 +6,12 @@
         <a href="#<%= section %>" title="<%= @labels[section] %>" class="nav-link"><%= @labels[section] %></a>
       </li>
     <% end %>
+     <li class="nav-item">
+        |
+      </li>
+      <li class="nav-item">
+        <a href="2016-03-12/" target="_blank" title="1&ordm; Agile Floripa" class="nav-link">1&ordm; Agile Floripa</a>
+      </li>
   </ul>
 </nav>
 
