@@ -20,10 +20,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    /*callToAction: {
+    callToAction: {
         text: "Submeta sua Palestra!",
-        link: "https://inscricoes.agilebrazil.com/events/18/attendances/new"
-    },*/
+        link: "http://call4paperz.com/events/2o-agile-floripa"
+    },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     //forkButton: {
