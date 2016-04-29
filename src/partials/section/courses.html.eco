@@ -1,0 +1,34 @@
+<h2 class="section-title"><%= @labels['courses'] %></h2>
+
+<ul class="speakers-list">
+<% for speaker in @courses: %>
+  <% if speaker.presentation: %>
+    <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+      <% if speaker.photo: %>
+        <span class="speaker-photo">
+          <img class="photo" src="<%= speaker.photo %>" alt="<%= speaker.name %>" itemprop="image">
+        </span>
+      <% end %>
+
+      <h3 class="speech-title">
+          <span class="speech-time"><%= speaker.presentation.featured %></span>
+          <span> <%= speaker.presentation.title %></span>
+      </h3>
+
+      <p class="speakers-bio"><%= speaker.presentation.description %></p>
+
+      <h3 class="speakers-name"><%= speaker.name %> <% if speaker.link: %><a href="<%= speaker.link.href %>" title="<%= speaker.link.text %>"><%= speaker.link.text %></a><% end %></h3>
+      <p class="speakers-bio"><%= speaker.bio %></p>
+        <% if speaker.presentation.local: %>
+          <p>
+          Valor: <%= speaker.presentation.value %><br>
+          Data: <%= speaker.presentation.date %><br>
+          Horário: <%= speaker.presentation.time %><br>
+          Local: <%= speaker.presentation.local %>
+          </p>
+        <% end %>
+
+    </li>
+  <% end %>
+<% end %>
+</ul>

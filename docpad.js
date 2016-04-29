@@ -42,6 +42,7 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
+      'courses',  
       'location',
       'schedule',
       //'speakers',
@@ -54,6 +55,7 @@ module.exports = {
     // Labels which you can translate to other languages
     labels: {
       about: "Sobre",
+      courses: "Curso",
       location: "Local",
       speakers: "Palestrantes",
       schedule: "Grade",
@@ -62,6 +64,24 @@ module.exports = {
       faq: "FAQ",
       contact: "Contato"
     },
+
+    courses: [
+      {
+        name: "Rodrigo Yoshima",
+        photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
+        company: "",
+        bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
+        presentation: {
+          title: "Treinamento Kanban (KMP I)",
+          featured: "\\o/ Novidade!",
+          description: "Quer melhorar os processos da sua empresa de tecnologia? A Aspercom é pioneira no Brasil na aplicação do Método Kanban em pequenas, médias e grandes empresas nos mais variados setores. Com a nossa experiência você aprende neste treinamento como melhorar o seu processo de forma evolucionária - lidando com a resistência natural das pessoas a mudanças - tornando seu processo ajustado aos objetivos de negócio da sua organização! Este treinamento é certificado Lean-Kanban University (Kanban Method Professional I).",
+          local: "CESUSC",
+          date: "09 e 10 de Junho",
+          time: "08:00 às 17:00",
+          value: "R$ 750,00"
+        }
+      }
+    ],
 
     // The entire schedule
     schedule: [
