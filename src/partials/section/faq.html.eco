@@ -1,5 +1,10 @@
 <h2 class="section-title"><%= @labels['faq'] %></h2>
 <p>
+    <b>0</b> - Preciso levar algo no dia do evento para comprovar minha inscrição?<br>
+    <b>R:</b> Sim. Você deve portar um documento oficial com foto! Veja o restante do FAQ.
+</p>
+
+<p>
     <b>1</b> - O que acontece se eu não pagar a inscrição no prazo de 2 dias corridos?<br>
     <b>R:</b> Após 2 dias você receberá um email informando que a inscrição será cancelada. O cancelamento será efetivado caso o pagamento não ocorra em até 2 dias após o recebimento deste email.
 </p>
@@ -14,11 +19,30 @@
     <b>R:</b> Para pagar o valor de estudante, você deve inserir o token a seguir no campo destinado a códigos de desconto durante a sua inscrição: 1bbdf791a9268125d23c4f37cc285f7e
               No momento do credenciamento, será necessário apresentar a carteirinha de estudante ou declaração original carimbada e assinada pela universidade.
 </p>
+
 <p>
     <b>4</b> - Quero levar a galera toda da empresa. Vocês tem algum tipo de desconto?<br>
     <b>R:</b> Para obter o desconto é preciso que o representante da empresa faça contato através do e-mail: contato@agilefloripa.com.br.<br>
                 Temos duas faixas de desconto para inscrição em grupo da mesma empresa:<br>
                 - Entre 5 a 10 pessoas concedemos 10% de desconto;<br>
                 - Acima de 10 pessoas concedemos 15% de desconto;
+</p>
 
+<p>
+    <b>5</b> - Se eu fizer o "Treinamento Kanban (KMP I)" fomentados pelo Agile Floripa tenho algum desconto na inscrição do evento?<br>
+    <b>R:</b> SIM! O Rodrigo Yoshima quer todos lá e vai patrocinar a entrada de quem fizer o curso dele.
+</p>
+
+<p>
+    <b>6</b> - Posso fazer inscrição só em um curso sem me inscrever no evento?<br>
+    <b>R:</b> Sim. Você pode se inscrever só no evento ou só em um curso. Se quiser pode se inscrever em ambos (atenção para o item 5).
+</p>
+
+<p>
+    <b>7</b> - Se eu fizer a minha inscrição, mas não puder comparecer na conferência, eu perco meu dinheiro?<br>
+    <b>R:</b> Não, você pode transferir gratuitamente para outra pessoa ou você pode solicitar devolução, mas nesse caso ela será parcial.<br>
+                Em casos de devolução, o percentual de reembolso será calculado de acordo com a data do pedido do cancelamento, conforme a lista a seguir: <br>
+                    &nbsp;&nbsp;- até 21/05/2016: 70% do valor pago; <br>
+                    &nbsp;&nbsp;- a partir de 22/05/2016: 50% de restituição;<br>
+                    &nbsp;&nbsp;- a partir de 08/06/2016 (72 horas antes do evento): não há restituição.
 </p>
