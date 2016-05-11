@@ -13,7 +13,8 @@ module.exports = {
       // If your event is free, just comment this line
       //price: "R$ 50,00",
       venue: "CESUSC",
-      address: "CESUSC: SC-401, 9301 - Santo Antonio de Lisboa",
+	  address: "Rod. José Carlos Daux (SC401), 9301 - Km 10, Santo Antônio de Lisboa - Florianópolis/SC",
+      addressGoogle: "CESUSC: Rod. José Carlos Daux, 80 - Santo Antonio de Lisboa",
       city: "Floripa",
       state: "Santa Catarina"
     },
