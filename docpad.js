@@ -98,9 +98,9 @@ module.exports = {
       },
       {
         name: "Victor Hugo Germano",
-        photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
-        company: "Aspercom",
-        bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
+        photo: "themes/agile-floripa/img/speaker/VictorHugoGermano.jpg",
+        company: "Lambda3",
+        bio: "",
         presentation: {
           title: "Keynote - Victor Hugo Germano",
           description: "",
