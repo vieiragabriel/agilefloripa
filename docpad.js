@@ -73,13 +73,15 @@ module.exports = {
         company: "",
         bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
         presentation: {
-          title: "Treinamento Kanban (KMP I)",
+          title: "Treinamento Kanban (KMP I) + Ingresso FREE para o 2º Agile Floripa",
           featured: "\\o/ Novidade!",
           description: "Quer melhorar os processos da sua empresa de tecnologia? A Aspercom é pioneira no Brasil na aplicação do Método Kanban em pequenas, médias e grandes empresas nos mais variados setores. Com a nossa experiência você aprende neste treinamento como melhorar o seu processo de forma evolucionária - lidando com a resistência natural das pessoas a mudanças - tornando seu processo ajustado aos objetivos de negócio da sua organização! Este treinamento é certificado Lean-Kanban University (Kanban Method Professional I).",
           local: "CESUSC",
           date: "09 e 10 de Junho",
           time: "08:00 às 17:00",
-          value: "R$ 750,00"
+          value: "R$ 750,00",
+		  cta: 'http://aspercom.com.br/kanban-floripa/',
+		  ctaText: 'Inscreva-se'
         }
       }
     ],
@@ -87,32 +89,78 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Credenciamento + Coffee",
-        time: "09:15"
+        name: "Credenciamento",
+        time: "08:30"
       },
       {
         name: "Abertura",
+        time: "09:00"
+      },
+      {
+        name: "Victor Hugo Germano",
+        photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
+        company: "Aspercom",
+        bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
+        presentation: {
+          title: "Keynote - Victor Hugo Germano",
+          description: "",
+          time: "09:10"
+        }
+      },
+      {
+        name: "Palestra",
         time: "10:00"
       },
       {
-        name: "Palestras, Painel, Fishbowl, ou Open Space! Submeta e venha produzir conteúdo para comunidade :)",
-        time: "10:20"
+        name: "Coffee",
+        time: "10:30"
+      },
+      {
+        name: "Palestra",
+        time: "11:00"
+      },
+      {
+        name: "Palestra",
+        time: "11:30"
       },
       {
         name: "Almoço",
-        time: "12:50"
+        time: "12:00"
       },
       {
-        name: "Palestras, Painel, Fishbowl, ou Open Space! Submeta e venha produzir conteúdo para comunidade :)",
-        time: "14:20"
+        name: "Palestra",
+        time: "13:30"
       },
       {
-        name: "Encerramento + Sorteios",
-        time: "16:50"
+        name: "Open Space",
+        time: "14:00"
       },
       {
-        name: "Happy Hour",
-        time: "17:10"
+        name: "Coffee",
+        time: "15:00"
+      },
+      {
+        name: "Palestra",
+        time: "15:30"
+      },
+      {
+        name: "Palestra",
+        time: "16:00"
+      },
+      {
+        name: "Rodrigo Yoshima",
+        photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
+        company: "Aspercom",
+        bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
+        presentation: {
+          title: "Keynote - Rodrigo Yoshima",
+          description: "",
+          time: "16:30"
+        }
+      },
+      {
+        name: "Encerramento + Sorteios e Happy Hour \\o/",
+        time: "17:20"
       }
     ],
     // List of Sponsors

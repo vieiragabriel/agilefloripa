@@ -26,6 +26,9 @@
           Horário: <%= speaker.presentation.time %><br>
           Local: <%= speaker.presentation.local %>
           </p>
+          <div class="call-action-area">
+                    <a href="<%= speaker.presentation.cta %>" class="call-action-link" title="<%= speaker.presentation.ctaText %>"><%= speaker.presentation.ctaText %></a>
+          </div>
         <% end %>
 
     </li>
