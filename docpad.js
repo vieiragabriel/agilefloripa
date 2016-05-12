@@ -11,7 +11,7 @@ module.exports = {
       description: "2º Agile Floripa dia 11 de Junho de 2016",
       date: "11 de Junho",
       // If your event is free, just comment this line
-      //price: "R$ 50,00",
+      price: "R$ 50,00",
       venue: "CESUSC",
 	  address: "Rod. José Carlos Daux (SC401), 9301 - Km 10, Santo Antônio de Lisboa - Florianópolis/SC",
       addressGoogle: "CESUSC: Rod. José Carlos Daux, 80 - Santo Antonio de Lisboa",
@@ -22,8 +22,8 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Submeta sua Palestra!",
-        link: "http://call4paperz.com/events/2o-agile-floripa"
+        text: "Inscreva-se!",
+        link: "https://inscricoes.agilebrazil.com/events/19/attendances/new"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property

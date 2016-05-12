@@ -21,11 +21,10 @@
         <% end %>
 
         <% if @callToAction: %>
-          <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+          <a target="_blank" href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
         <% end %>
       </div>
     <% end %>
-    <p style="color: white; font-size: 2.2em;">Logo vamos abrir as inscrições! Fique ligado ;)</p>
   </div>
 </header>
 <script>
