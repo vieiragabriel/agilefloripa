@@ -108,27 +108,48 @@ module.exports = {
         }
       },
       {
-        name: "Palestra",
-        time: "10:00"
+        name: "Bruno Brandes",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Take",
+        bio: "",
+        presentation: {
+          title: "Desafios das estimativas - Utilizando métricas científicas com Kanban",
+          description: "",
+          time: "10:00"
+        }
       },
       {
         name: "Coffee",
         time: "10:30"
       },
       {
-        name: "Palestra",
-        time: "11:00"
+        name: "Matheus Braun Magrin",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Bravi",
+        bio: "",
+        presentation: {
+          title: "Como a Permacultura pode contribuir com a Cultura Ágil",
+          description: "",
+          time: "11:00"
+        }
       },
       {
-        name: "Palestra",
-        time: "11:30"
+        name: "Danilo Garcia",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Creatify",
+        bio: "",
+        presentation: {
+          title: "Organização sem burocracia: Uso de Delegation Board em diferentes cenários",
+          description: "",
+          time: "11:30"
+        }
       },
       {
         name: "Almoço",
         time: "12:00"
       },
       {
-        name: "Palestra",
+        name: "Em breve",
         time: "13:30"
       },
       {
@@ -140,12 +161,26 @@ module.exports = {
         time: "15:00"
       },
       {
-        name: "Palestra",
-        time: "15:30"
+        name: "Wesley Tiago Zapellini",
+        photo: "themes/agile-floripa/img/speaker/WesleyTiagoZapellini.jpg",
+        company: "Plataformatec",
+        bio: "Catarinense perdido em São Paulo desde 2013. Gerente de Projetos Ágeis na Plataformatec, ajuda times de alta performance a entregar valor aos clientes. Formado em Sistemas de Informação pela UFSC, teve seu primeiro contato com metodologias ágeis em 2011, ainda em Florianópolis, quando implantou Scrum em uma pequena equipe.",
+        presentation: {
+          title: "Estratégias para otimizar um sistema de trabalho",
+          description: "",
+          time: "15:30"
+        }
       },
       {
-        name: "Palestra",
-        time: "16:00"
+        name: "Mariana Graf",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Taller",
+        bio: "",
+        presentation: {
+          title: "A importância da transparência na cultura ágil",
+          description: "",
+          time: "16:00"
+        }
       },
       {
         name: "Rodrigo Yoshima",
