@@ -124,9 +124,9 @@ module.exports = {
       },
       {
         name: "Matheus Braun Magrin",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/matheus_magrin.jpg",
         company: "Bravi",
-        bio: "",
+        bio: "Cientista de dados na Bravi Software, na qual atua com empresas do ramo da educação. Além disso foi programador em projetos internacionais de Learning Analytics e de Gerência de Instituições de Ensino. É formado em Ciências da Computação pela Universidade Federal de Santa Catarina (UFSC). Matheus também é permacultor e além de estudar agroflorestas e bioconstrução, tem estudado qual o impacto da Permacultura Social na produção de tecnologia.",
         presentation: {
           title: "Como a Permacultura pode contribuir com a Cultura Ágil",
           description: "",
@@ -173,9 +173,9 @@ module.exports = {
       },
       {
         name: "Mariana Graf",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/Mariana-Graf.jpg",
         company: "Taller",
-        bio: "",
+        bio: "Cientista Social com MBA em Gestão de Pessoas, atua no núcleo de criação da Taller como People, com foco na facilitação das relações sociais e no bem estar dos profissionais antes de tudo. Apaixonada pelas relações humanas, trabalha mantendo o mindset ágil em suas práticas relacionadas às pessoas. Participa dos comitês organizadores de comunidades como Agile Brazil, Agile Trends e Agile Floripa e adora compartilhar conhecimento.",
         presentation: {
           title: "A importância da transparência na cultura ágil",
           description: "",
