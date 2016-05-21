@@ -149,8 +149,15 @@ module.exports = {
         time: "12:00"
       },
       {
-        name: "Em breve",
-        time: "13:30"
+        name: "Marcelo Benez",
+        photo: "themes/agile-floripa/img/speaker/user.png",
+        company: "Blueticket",
+        bio: "",
+        presentation: {
+          title: "Agilidade com foco em aproximar pessoas de experiências ao vivo",
+          description: "A proposta é apresentar os bastidores dos ciclos de melhorias que foram adotadas ao longos dos últimos 5 anos. Como os princípios ágeis contribuíram (ou não) na conciliação entre as necessidades de entrega de software com o propósito da Blueticket. A importância de interpretar e aplicar melhorias entendendo as condições do meio: estágio do negócio, maturidade do time, estágio do produto, etc.",
+          time: "13:30"
+        }
       },
       {
         name: "Open Space",
