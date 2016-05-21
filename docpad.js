@@ -114,7 +114,7 @@ module.exports = {
         bio: "",
         presentation: {
           title: "Desafios das estimativas - Utilizando métricas científicas com Kanban",
-          description: "",
+          description: "Na maioria das vezes, estimativas são feitas para saber o Retorno Sobre Investimento (ROI). Pretendo compartilhar minha jornada até aqui, abordando como abandonar timeboxes e estimativas com a implantação do Kanban. Vou apresentar como isso possibilitou o alcance a dados científicos do processo, deixando o fluxo de trabalho mais previsível e mais ágil, aumentando valor e qualidade das entregas.",
           time: "10:00"
         }
       },
@@ -129,7 +129,7 @@ module.exports = {
         bio: "Cientista de dados na Bravi Software, na qual atua com empresas do ramo da educação. Além disso foi programador em projetos internacionais de Learning Analytics e de Gerência de Instituições de Ensino. É formado em Ciências da Computação pela Universidade Federal de Santa Catarina (UFSC). Matheus também é permacultor e além de estudar agroflorestas e bioconstrução, tem estudado qual o impacto da Permacultura Social na produção de tecnologia.",
         presentation: {
           title: "Como a Permacultura pode contribuir com a Cultura Ágil",
-          description: "",
+          description: "O que uma metodologia para planejamento de assentamentos humanos sustentáveis, o movimento Ágil e o jeito de solucionar problemas do Design Thinking tem em comum? Apesar de terem surgido em áreas de atuação bem distintas, seus princípios básicos possuem afinidades surpreendentes. Vamos conhecer melhor a Permacultura e como ela pode auxiliar na criação de soluções inovadoras no mundo da tecnologia.",
           time: "11:00"
         }
       },
@@ -140,7 +140,7 @@ module.exports = {
         bio: "",
         presentation: {
           title: "Organização sem burocracia: Uso de Delegation Board em diferentes cenários",
-          description: "",
+          description: "Os limites não explícitos de autonomia e a burocratização dos processos de decisão estão entre as principais causas de medo e baixa pró-atividade das organizações. Nesta palestra, mostraremos como estamos tornando os limites da autonomia visíveis para pessoas e equipes sem burocratizar os processos de decisão e mudança das empresas com quem trabalhamos.",
           time: "11:30"
         }
       },
@@ -167,7 +167,7 @@ module.exports = {
         bio: "Catarinense perdido em São Paulo desde 2013. Gerente de Projetos Ágeis na Plataformatec, ajuda times de alta performance a entregar valor aos clientes. Formado em Sistemas de Informação pela UFSC, teve seu primeiro contato com metodologias ágeis em 2011, ainda em Florianópolis, quando implantou Scrum em uma pequena equipe.",
         presentation: {
           title: "Estratégias para otimizar um sistema de trabalho",
-          description: "",
+          description: "Quando se chega num novo ambiente que é disfuncional, é difícil formular um plano para resolver os problemas. Tudo está pegando fogo e o tempo é escasso. Nesta sessão quero compartilhar estratégias e dicas que aprendi na comunidade e com a vivência em consultoria, que sirvam como um guia para quando você se depara com um sistema de trabalho problemático e precisa torná-lo otimizado e saudável.",
           time: "15:30"
         }
       },
@@ -178,7 +178,7 @@ module.exports = {
         bio: "Cientista Social com MBA em Gestão de Pessoas, atua no núcleo de criação da Taller como People, com foco na facilitação das relações sociais e no bem estar dos profissionais antes de tudo. Apaixonada pelas relações humanas, trabalha mantendo o mindset ágil em suas práticas relacionadas às pessoas. Participa dos comitês organizadores de comunidades como Agile Brazil, Agile Trends e Agile Floripa e adora compartilhar conhecimento.",
         presentation: {
           title: "A importância da transparência na cultura ágil",
-          description: "",
+          description: "A transparência garante que os colaboradores se sintam pertencentes aos projetos e à empresa e seus resultados. Compartilho algumas ações fora do desenvolvimento de software e design que poderão ser norteadoras e estratégicas na hora de manter a clareza, o engajamento e alinhamento entre os profissionais e mostrando ainda porquê a transparência pode impulsionar seu negócio e reter seus talentos.",
           time: "16:00"
         }
       },
