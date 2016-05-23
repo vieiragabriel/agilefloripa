@@ -150,9 +150,9 @@ module.exports = {
       },
       {
         name: "Marcelo Benez",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/marcelo-benez.jpg",
         company: "Blueticket",
-        bio: "",
+        bio: "Atualmente na posição de gerente de produto e tecnologia na Blueticket com o desafio de alinhar os objetivos estratégicos de crescimento da empresa, gerando confiança e conveniência na entrega de valor para seus clientes através das disciplinas ágeis de gestão.",
         presentation: {
           title: "Agilidade com foco em aproximar pessoas de experiências ao vivo",
           description: "A proposta é apresentar os bastidores dos ciclos de melhorias que foram adotadas ao longos dos últimos 5 anos. Como os princípios ágeis contribuíram (ou não) na conciliação entre as necessidades de entrega de software com o propósito da Blueticket. A importância de interpretar e aplicar melhorias entendendo as condições do meio: estágio do negócio, maturidade do time, estágio do produto, etc.",
