@@ -195,8 +195,8 @@ module.exports = {
         company: "Aspercom",
         bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
         presentation: {
-          title: "Keynote - Rodrigo Yoshima",
-          description: "",
+          title: "O que é agilidade sob as lentes do Kanban?",
+          description: "Você realmente sabe o que é agilidade? Você entende como funciona um sistema baseado em Fluxo? Sabe o momento certo de se comprometer com as entregas? Entende sobre métricas importantes para o seu negócio? Concorda que é possível sim ser previsível mesmo dentro de um sistema complexo? Sabe como, quando e onde deve direcionar os seus esforços de melhoria de processos? Essas e outras perguntas Rodrigo Yoshima - especialista em Agile, Lean e Kanban - responderá nessa palestra onde serão apresentadas as tendências mais recentes da gestão moderna.",
           time: "16:30"
         }
       },
