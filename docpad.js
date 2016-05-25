@@ -109,9 +109,9 @@ module.exports = {
       },
       {
         name: "Bruno Brandes",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/bruno-brandes.jpg",
         company: "Take",
-        bio: "",
+        bio: "Apaixonado por aprender coisas novas e trabalhar com pessoas. Fundou em 2012, a Studio Ws3, uma empresa focada principalmente em tecnologias ASP.NET MVC. Atualmente trabalha como Iteration Manager e analista de sistemas na Take.net, e concilia estas atividades com as de ser proprietário de uma empresa que ainda busca crescimento no mercado. Formado em Sistemas de Informação pelo Centro Universitário UNA e trabalhando com tecnologia há 8 anos, está focado em melhorar sua jornada em projetos de softwares.",
         presentation: {
           title: "Desafios das estimativas - Utilizando métricas científicas com Kanban",
           description: "Na maioria das vezes, estimativas são feitas para saber o Retorno Sobre Investimento (ROI). Pretendo compartilhar minha jornada até aqui, abordando como abandonar timeboxes e estimativas com a implantação do Kanban. Vou apresentar como isso possibilitou o alcance a dados científicos do processo, deixando o fluxo de trabalho mais previsível e mais ágil, aumentando valor e qualidade das entregas.",
