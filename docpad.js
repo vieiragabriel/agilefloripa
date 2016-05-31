@@ -100,10 +100,10 @@ module.exports = {
         name: "Victor Hugo Germano",
         photo: "themes/agile-floripa/img/speaker/VictorHugoGermano.jpg",
         company: "Lambda3",
-        bio: "Desenvolvedor há 13 anos, escalador e mais recentemente: empreendedor. Formado pela UFSC e Trabalhando com métodos ágeis desde 2004, já viu várias empresas falirem. Depois de inúmeras tentativas 'in company' de mudança cultural, cansou de trabalhar para os outros e decidiu o óbvio: fazer a própria empresa dar certo. Assim nasceu a Lambda3, empresa multidisciplinar que atualmente possui projetos Ágeis de diversos tamanhos entregando valor de negócio com inovação e muito bom humor. Victor também é maluco o bastante para acreditar que é possível um mundo sem gerentes. Neste momento, Victor é um dos diretores do Board da Agile Alliance Global, e conselheiro da Agile Alliance Brazil",
+        bio: "Desenvolvedor há 13 anos, escalador e mais recentemente: empreendedor. Formado pela UFSC e Trabalhando com métodos ágeis desde 2004, já viu várias empresas falirem. Depois de inúmeras tentativas 'in company' de mudança cultural, cansou de trabalhar para os outros e decidiu o óbvio: fazer a própria empresa dar certo. Assim nasceu a Lambda3, empresa multidisciplinar que atualmente possui projetos Ágeis de diversos tamanhos entregando valor de negócio com inovação e muito bom humor. Victor também é maluco o bastante para acreditar que é possível um mundo sem gerentes. Neste momento, Victor é um dos diretores do Board da Agile Alliance Global, e conselheiro da Agile Alliance Brazil.",
         presentation: {
-          title: "Keynote - Victor Hugo Germano",
-          description: "",
+          title: "Auto-gestão, negócios e produtividade",
+          description: "O Mundo passa por problemas. Estamos num período de transição entre modelos de Gestão antiquados e resultados ruins em nossas empresas. Existe um futuro para o mundo da Gestão? Equipes desmotivadas, alta competitividade e falência das empresas pede por novas formas de conduzir a Gestão dentro das Empresas. Nesta apresentação falarei sobre auto-gestão, times de alta performance e algumas práticas diretas para ampliar a capacidade do seu time.",
           time: "09:10"
         }
       },
