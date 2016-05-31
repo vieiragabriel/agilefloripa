@@ -135,9 +135,9 @@ module.exports = {
       },
       {
         name: "Danilo Garcia",
-        photo: "themes/agile-floripa/img/speaker/user.png",
+        photo: "themes/agile-floripa/img/speaker/danilo-garcia.png",
         company: "Creatify",
-        bio: "",
+        bio: "Desenvolvedor de software a 10 anos e agilista a 4 anos, encontrei na agilidade um mundo onde qualidade de vida e sucesso no trabalho é possível e desejável. Hoje dedico a minha vida a expandir essa cultura para que tenhamos profissionais melhores e por consequência empresas melhores.",
         presentation: {
           title: "Organização sem burocracia: Uso de Delegation Board em diferentes cenários",
           description: "Os limites não explícitos de autonomia e a burocratização dos processos de decisão estão entre as principais causas de medo e baixa pró-atividade das organizações. Nesta palestra, mostraremos como estamos tornando os limites da autonomia visíveis para pessoas e equipes sem burocratizar os processos de decisão e mudança das empresas com quem trabalhamos.",
