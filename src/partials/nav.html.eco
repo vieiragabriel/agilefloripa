@@ -10,7 +10,10 @@
         |
       </li>
       <li class="nav-item">
-        <a href="2016-03-12/" target="_blank" title="1&ordm; Agile Floripa" class="nav-link">1&ordm; Agile Floripa</a>
+        <a href="<%= @site.url %>/2016-03-12/" target="_blank" title="1&ordm; Agile Floripa" class="nav-link">1&ordm; Agile Floripa</a>
+      </li>
+      <li class="nav-item">
+        <a href="<%= @site.url %>/2016-06-11/" target="_blank" title="2&ordm; Agile Floripa" class="nav-link">2&ordm; Agile Floripa</a>
       </li>
   </ul>
 </nav>

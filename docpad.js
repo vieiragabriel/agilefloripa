@@ -7,14 +7,14 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Agile Floripa - 2º Agile Floripa dia 11 de Junho de 2016",
-      description: "2º Agile Floripa dia 11 de Junho de 2016",
-      date: "11 de Junho",
+      name: "Agile Floripa - 3º Agile Floripa dia 18 de Março de 2017",
+      description: "3º Agile Floripa dia 18 de Março de 2017",
+      date: "18 de Março",
       // If your event is free, just comment this line
       price: "R$ 50,00",
-      venue: "CESUSC",
-	  address: "Rod. José Carlos Daux (SC401), 9301 - Km 10, Santo Antônio de Lisboa - Florianópolis/SC",
-      addressGoogle: "CESUSC: Rod. José Carlos Daux, 80 - Santo Antonio de Lisboa",
+      venue: "CIASC",
+	  address: "R. Murilo Andriani, 327 - Itacorubi, Florianópolis - SC",
+      addressGoogle: "CIASC - Centro de Informática e Automação do Estado de Santa Catarina, R. Murilo Andriani, 327 - Itacorubi, SC, 88034-902",
       city: "Floripa",
       state: "Santa Catarina"
     },
@@ -23,7 +23,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Inscreva-se!",
-        link: "https://inscricoes.agilebrazil.com/events/19/attendances/new"
+        link: "https://inscricoes.agilebrazil.com/events/30/attendances/new"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
@@ -43,10 +43,10 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       'about',
-      'courses',  
+      //'courses',
       'location',
-      'schedule',
-      'speakers',
+      //'schedule',
+      //'speakers',
       //'sponsors',
       'partners',
       'faq'
@@ -232,9 +232,9 @@ module.exports = {
         url: "http://agiletrendsbr.com/"
       },
       {
-        name: "CESUSC",
-        logo: "themes/agile-floripa/img/partner/CESUSC.png",
-        url: "http://www.cesusc.edu.br/"
+        name: "CIASC",
+        logo: "themes/agile-floripa/img/partner/CIASC.png",
+        url: "http://www.ciasc.sc.gov.br/"
       },
       {
         name: "Scrum Rion",
