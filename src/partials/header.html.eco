@@ -25,6 +25,13 @@
         <% end %>
       </div>
     <% end %>
+
+     <% if @callToActionSubmission: %>
+          <div class="call-action-area" style="margin-top: 1em;">
+              <a target="_blank" href="<%= @callToActionSubmission.link %>" class="call-action-link" title="<%= @callToActionSubmission.text %>"><%= @callToActionSubmission.text %></a>
+          </div>
+     <% end %>
+
   </div>
 </header>
 <script>
