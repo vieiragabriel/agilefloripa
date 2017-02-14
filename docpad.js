@@ -50,8 +50,8 @@ module.exports = {
       'about',
       //'courses',
       'location',
-      //'schedule',
-      //'speakers',
+      'schedule',
+      'speakers',
       //'sponsors',
       'partners',
       'faq'
@@ -94,120 +94,66 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Credenciamento",
+        name: "Credenciamento e Welcome coffee.",
         time: "08:30"
       },
       {
-        name: "Abertura",
-        time: "09:00"
-      },
-      {
-        name: "Victor Hugo Germano",
-        photo: "themes/agile-floripa/img/speaker/VictorHugoGermano.jpg",
-        company: "Lambda3",
-        bio: "Desenvolvedor há 13 anos, escalador e mais recentemente: empreendedor. Formado pela UFSC e Trabalhando com métodos ágeis desde 2004, já viu várias empresas falirem. Depois de inúmeras tentativas 'in company' de mudança cultural, cansou de trabalhar para os outros e decidiu o óbvio: fazer a própria empresa dar certo. Assim nasceu a Lambda3, empresa multidisciplinar que atualmente possui projetos Ágeis de diversos tamanhos entregando valor de negócio com inovação e muito bom humor. Victor também é maluco o bastante para acreditar que é possível um mundo sem gerentes. Neste momento, Victor é um dos diretores do Board da Agile Alliance Global, e conselheiro da Agile Alliance Brazil.",
+        name: "Annelise Gripp",
+        photo: "themes/agile-floripa/img/speaker/annelise.jpg",
+        company: "Integrare Consultoria e Capacitação",
+        bio: "Como consultora, seu trabalho consiste em expandir, compartilhar e aplicar seus conhecimentos, habilidades e experiências nas empresas, implantando projetos utilizando Metodologia Ágil (XP, Kanban, Scrum), Agile Coach (coaching aplicado a líderes e times) e Personal/Executive Coach (desenvolvimento de competências para alcançar resultados). Fundadora do Rio Agile. Nos últimos 7 anos se dedicou aos estudos das Metodologias Ágeis, onde projetos, produtos e pessoas desenvolvem um trabalho juntos, entregando software com rapidez, qualidade e satisfação, para o cliente e para equipe.",
         presentation: {
-          title: "Auto-gestão, negócios e produtividade",
-          description: "O Mundo passa por problemas. Estamos num período de transição entre modelos de Gestão antiquados e resultados ruins em nossas empresas. Existe um futuro para o mundo da Gestão? Equipes desmotivadas, alta competitividade e falência das empresas pede por novas formas de conduzir a Gestão dentro das Empresas. Nesta apresentação falarei sobre auto-gestão, times de alta performance e algumas práticas diretas para ampliar a capacidade do seu time.",
-          time: "09:10"
+          title: "Transformação Ágil, a arte de transformar lagartas em borboletas!",
+          description: "-",
+          time: "09:00"
         }
       },
       {
-        name: "Bruno Brandes",
-        photo: "themes/agile-floripa/img/speaker/bruno-brandes.jpg",
-        company: "Take",
-        bio: "Apaixonado por aprender coisas novas e trabalhar com pessoas. Fundou em 2012, a Studio Ws3, uma empresa focada principalmente em tecnologias ASP.NET MVC. Atualmente trabalha como Iteration Manager e analista de sistemas na Take.net, e concilia estas atividades com as de ser proprietário de uma empresa que ainda busca crescimento no mercado. Formado em Sistemas de Informação pelo Centro Universitário UNA e trabalhando com tecnologia há 8 anos, está focado em melhorar sua jornada em projetos de softwares.",
-        presentation: {
-          title: "Desafios das estimativas - Utilizando métricas científicas com Kanban",
-          description: "Na maioria das vezes, estimativas são feitas para saber o Retorno Sobre Investimento (ROI). Pretendo compartilhar minha jornada até aqui, abordando como abandonar timeboxes e estimativas com a implantação do Kanban. Vou apresentar como isso possibilitou o alcance a dados científicos do processo, deixando o fluxo de trabalho mais previsível e mais ágil, aumentando valor e qualidade das entregas.",
-          time: "10:00"
-        }
+        name: "Palestra 1",
+        time: "10:00"
       },
       {
-        name: "Coffee",
-        time: "10:30"
+        name: "Coffee break",
+        time: "10:40"
       },
       {
-        name: "Matheus Braun Magrin",
-        photo: "themes/agile-floripa/img/speaker/matheus_magrin.jpg",
-        company: "Bravi",
-        bio: "Cientista de dados na Bravi Software, na qual atua com empresas do ramo da educação. Além disso foi programador em projetos internacionais de Learning Analytics e de Gerência de Instituições de Ensino. É formado em Ciências da Computação pela Universidade Federal de Santa Catarina (UFSC). Matheus também é permacultor e além de estudar agroflorestas e bioconstrução, tem estudado qual o impacto da Permacultura Social na produção de tecnologia.",
-        presentation: {
-          title: "Como a Permacultura pode contribuir com a Cultura Ágil",
-          description: "O que uma metodologia para planejamento de assentamentos humanos sustentáveis, o movimento Ágil e o jeito de solucionar problemas do Design Thinking tem em comum? Apesar de terem surgido em áreas de atuação bem distintas, seus princípios básicos possuem afinidades surpreendentes. Vamos conhecer melhor a Permacultura e como ela pode auxiliar na criação de soluções inovadoras no mundo da tecnologia.",
-          time: "11:00"
-        }
+        name: "Palestra 2",
+        time: "11:10"
       },
       {
-        name: "Danilo Garcia",
-        photo: "themes/agile-floripa/img/speaker/danilo-garcia.png",
-        company: "Createfy",
-        bio: "Desenvolvedor de software a 10 anos e agilista a 4 anos, encontrei na agilidade um mundo onde qualidade de vida e sucesso no trabalho é possível e desejável. Hoje dedico a minha vida a expandir essa cultura para que tenhamos profissionais melhores e por consequência empresas melhores.",
-        presentation: {
-          title: "Organização sem burocracia: Uso de Delegation Board em diferentes cenários",
-          description: "Os limites não explícitos de autonomia e a burocratização dos processos de decisão estão entre as principais causas de medo e baixa pró-atividade das organizações. Nesta palestra, mostraremos como estamos tornando os limites da autonomia visíveis para pessoas e equipes sem burocratizar os processos de decisão e mudança das empresas com quem trabalhamos.",
-          time: "11:30"
-        }
+        name: "Palestra 3",
+        time: "11:50"
       },
       {
         name: "Almoço",
-        time: "12:00"
+        time: "12:30"
       },
       {
-        name: "Marcelo Benez",
-        photo: "themes/agile-floripa/img/speaker/marcelo-benez.jpg",
-        company: "Blueticket",
-        bio: "Atualmente na posição de gerente de produto e tecnologia na Blueticket com o desafio de alinhar os objetivos estratégicos de crescimento da empresa, gerando confiança e conveniência na entrega de valor para seus clientes através das disciplinas ágeis de gestão.",
-        presentation: {
-          title: "Agilidade com foco em aproximar pessoas de experiências ao vivo",
-          description: "A proposta é apresentar os bastidores dos ciclos de melhorias que foram adotadas ao longos dos últimos 5 anos. Como os princípios ágeis contribuíram (ou não) na conciliação entre as necessidades de entrega de software com o propósito da Blueticket. A importância de interpretar e aplicar melhorias entendendo as condições do meio: estágio do negócio, maturidade do time, estágio do produto, etc.",
-          time: "13:30"
-        }
-      },
-      {
-        name: "Open Space",
+        name: "Palestra 4",
         time: "14:00"
       },
       {
-        name: "Coffee",
-        time: "15:00"
-      },
-      {
-        name: "Wesley Tiago Zapellini",
-        photo: "themes/agile-floripa/img/speaker/WesleyTiagoZapellini.jpg",
-        company: "Plataformatec",
-        bio: "Catarinense perdido em São Paulo desde 2013. Gerente de Projetos Ágeis na Plataformatec, ajuda times de alta performance a entregar valor aos clientes. Formado em Sistemas de Informação pela UFSC, teve seu primeiro contato com metodologias ágeis em 2011, ainda em Florianópolis, quando implantou Scrum em uma pequena equipe.",
+        name: "Elias Nogueira",
+        photo: "themes/agile-floripa/img/speaker/eliasnogueira.jpg",
+        company: "Adptworks",
+        bio: "Agile Coach, Instrutor e QA Engineer. Elias Nogueira ajuda empresas e times a aplicar práticas ágeis em pequena e larga escala com um grande fooo em qualidade e teste de software.",
         presentation: {
-          title: "Estratégias para otimizar um sistema de trabalho",
-          description: "Quando se chega num novo ambiente que é disfuncional, é difícil formular um plano para resolver os problemas. Tudo está pegando fogo e o tempo é escasso. Nesta sessão quero compartilhar estratégias e dicas que aprendi na comunidade e com a vivência em consultoria, que sirvam como um guia para quando você se depara com um sistema de trabalho problemático e precisa torná-lo otimizado e saudável.",
-          time: "15:30"
+          title: "O testador está morto! (Um novo conceito para os testes)",
+          description: "-",
+          time: "14:40"
         }
       },
       {
-        name: "Mariana Graf",
-        photo: "themes/agile-floripa/img/speaker/Mariana-Graf.jpg",
-        company: "Taller",
-        bio: "Cientista Social com MBA em Gestão de Pessoas, atua no núcleo de criação da Taller como People, com foco na facilitação das relações sociais e no bem estar dos profissionais antes de tudo. Apaixonada pelas relações humanas, trabalha mantendo o mindset ágil em suas práticas relacionadas às pessoas. Participa dos comitês organizadores de comunidades como Agile Brazil, Agile Trends e Agile Floripa e adora compartilhar conhecimento.",
-        presentation: {
-          title: "A importância da transparência na cultura ágil",
-          description: "A transparência garante que os colaboradores se sintam pertencentes aos projetos e à empresa e seus resultados. Compartilho algumas ações fora do desenvolvimento de software e design que poderão ser norteadoras e estratégicas na hora de manter a clareza, o engajamento e alinhamento entre os profissionais e mostrando ainda porquê a transparência pode impulsionar seu negócio e reter seus talentos.",
-          time: "16:00"
-        }
+        name: "Coffee break",
+        time: "15:40"
       },
       {
-        name: "Rodrigo Yoshima",
-        photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
-        company: "Aspercom",
-        bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
-        presentation: {
-          title: "O que é agilidade sob as lentes do Kanban?",
-          description: "Você realmente sabe o que é agilidade? Você entende como funciona um sistema baseado em Fluxo? Sabe o momento certo de se comprometer com as entregas? Entende sobre métricas importantes para o seu negócio? Concorda que é possível sim ser previsível mesmo dentro de um sistema complexo? Sabe como, quando e onde deve direcionar os seus esforços de melhoria de processos? Essas e outras perguntas Rodrigo Yoshima - especialista em Agile, Lean e Kanban - responderá nessa palestra onde serão apresentadas as tendências mais recentes da gestão moderna.",
-          time: "16:30"
-        }
+        name: "Painel",
+        time: "16:10"
       },
       {
         name: "Encerramento + Sorteios e Happy Hour \\o/",
-        time: "17:20"
+        time: "17:10"
       }
     ],
     // List of Sponsors
