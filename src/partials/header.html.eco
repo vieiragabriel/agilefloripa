@@ -19,11 +19,12 @@
         <% if @conf.price: %>
           <span class="price"><%= @conf.price %></span>
         <% end %>
-
-        <% if @callToAction: %>
-          <a target="_blank" href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
-        <% end %>
       </div>
+      <% if @callToAction: %>
+          <div class="call-action-area" style="margin-top: 2em;">
+              <a target="_blank" href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+          </div>
+      <% end %>
     <% end %>
 
      <% if @callToActionSubmission: %>
