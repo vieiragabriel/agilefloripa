@@ -25,12 +25,12 @@ module.exports = {
         text: "Inscreva-se!",
         link: "https://inscricoes.agilebrazil.com/events/30/attendances/new"
     },
-
+/*
     callToActionSubmission: {
         text: "Submeta sua Palestra!",
         link: "https://goo.gl/forms/eJ4Dvj99DCKemPkk2"
     },
-
+*/
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     //forkButton: {
     //    repository: "https://github.com/braziljs/conf-boilerplate"
