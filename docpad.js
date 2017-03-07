@@ -110,9 +110,9 @@ module.exports = {
       },
       {
           name: "Antonio de Campos",
-          photo: "themes/agile-floripa/img/speaker/user.png",
+          photo: "themes/agile-floripa/img/speaker/antonio.jpg",
           company: "Createfy",
-          bio: "Mini-bio",
+          bio: "Agile Coach, developer, consultor em transformações ágeis, facilitador de treinamentos em Ágil, Scrum, Kanban e Management 3.0, co-fundador da Createfy e membro entusiasta em várias comunidades de agilistas no Brasil. Eternamente em busca de diferentes cenários de transição e amadurecimento da agilidade. Engajado em aprender e espalhar pelo mundo formas de organização de times e empresas que prezem pelo respeito às potencialidades e relações humanas para harmonizar criatividade, alegria, produtividade, bom humor e resultados. Explorando os limites da autogestão sem estar convencido de que realmente exista um limite!",
           presentation: {
               title: "Porque eu deveria saber mais sobre Management 3.0?",
               description: "Já ouviu falar de Management 3.0 mas não conhece muito e quer decidir se deve aprender mais sobre ele? Tem dúvidas se as práticas e ferramentas de Management 3.0 podem te ajudar a resolver problemas de gestão e organização no seu time e na sua empresa? Esta palestra vai te ajudar a entender como usar algumas das ferramentas mais úteis e quais situações elas se propõem a resolver. Além disso, vou te mostrar algumas das muitas ótimas fontes de pesquisa para você aprender mais sobre Management 3.0 e mudar o seu ambiente de trabalho (radicalmente ou de leve, você escolhe). Se isso não te ajudar a se decidir, não sei o que fará! =) Tenho utilizado e ensinado ferramentas de Management 3.0 em várias empresas nos últimos anos e vejo o como elas podem fazer muita diferença e resolver problemas já tidos como parte da cultura e das limitações de empresas, gestores (recém promovidos e experientes) e até mesmo de times auto-geridos. Esta palestra pretende gerar mais interesse do público no assunto e motivá-lo a sair das abordagens manjadas.",
@@ -136,7 +136,7 @@ module.exports = {
       },
       {
           name: "Carlos Eduardo Polegato",
-          photo: "themes/agile-floripa/img/speaker/user.png",
+          photo: "themes/agile-floripa/img/speaker/CarlosEduardoPolegato.jpg",
           company: "Softplan",
 		  bio: "Carlos Eduardo Polegato, desenvolvedor de sistemas e agilista, sete anos de experiência com ágil, participou da transição completa do modelo tradicional para o ágil de uma empresa de grande porte. Atualmente possuí o papel de líder de times de desenvolvimento de um sistema complexo, com mais de cem profissionais envolvidos, líder de mercado. Tem como função promover agilidade em escala, incentivar e facilitar boas práticas de engenharia de software, promover melhoria contínua e desenvolver profissionalmente os integrantes dos times. Formado em ciência da computação em 2007, possui pós-graduação em engenharia de software, MBA em gestão de projetos, certificação Scrum Master Professional e certificação SAFe practicioner.",
           presentation: {
