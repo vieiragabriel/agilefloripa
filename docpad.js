@@ -151,7 +151,7 @@ module.exports = {
       },
       {
           name: "Rafael Justino & Victor Bernardo",
-          photo: "themes/agile-floripa/img/speaker/user.png",
+          photo: "themes/agile-floripa/img/speaker/Justino_Victor.png",
           company: "Resultados Digitais",
           bio: "Rafael Justino é Gestor de Produto na Resultados Digitais. Agilista, cristão, casado, pai. Analista de Sistemas que cansou de entregar certo a coisa errada. Hoje, une técnica e tecnologia com comunicação e relacionamentos, para construir produtos de software que realmente gerem resultados para os clientes e parceiros da Resultados Digitais. & Victor Hugo Bernardo é Gerente de Engenharia na Resultados Digitais, casado e pai da Heloísa. Apaixonado pela arte de Desenvolver Software e formar equipes de alta performance.",
           presentation: {
