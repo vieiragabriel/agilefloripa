@@ -22,8 +22,8 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Inscreva-se!",
-        link: "https://inscricoes.agilebrazil.com/events/30/attendances/new"
+        text: "Esgotado!",
+        //link: "https://inscricoes.agilebrazil.com/events/30/attendances/new"
     },
 /*
     callToActionSubmission: {
@@ -78,7 +78,7 @@ module.exports = {
         company: "",
         bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador.",
         presentation: {
-          title: "Treinamento Kanban (KMP I) + Ingresso FREE para o 3º Agile Floripa",
+          title: "Treinamento Kanban (KMP I) + Ingresso FREE para o 3º Agile Floripa(condicionado a vagas disponíveis)",
           featured: "\\o/ BIS ",
           description: "Aprenda a melhorar os processos da sua empresa de forma evolucionária, lidando com a resistência a mudanças e ajustando aos objetivos da sua organização. A Aspercom é pioneira no Brasil na aplicação do Método Kanban em pequenas, médias e grandes empresas nos mais variados setores. Com a nossa experiência você aprende neste treinamento como melhorar o seu processo de forma evolucionária - lidando com a resistência natural das pessoas a mudanças - tornando seu processo ajustado aos objetivos de negócio da sua organização! Este treinamento é certificado Lean-Kanban University (Kanban Method Professional I).",
           local: "CIASC",
