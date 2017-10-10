@@ -1,5 +1,4 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p>Estamos indo para a 3º edição do Agile Floripa! Uma onda de cooperação ágil que vem crescendo em Florianópolis. Este evento veio como meio de fortalecer a comunidade manezinha e catarinense e proporcionar espaço para que as grandes atividades e inovações realizadas no nosso estado sejam compartilhadas de maneira transparente e horizontal!</p>
 <p>Dando espaço aos palestrantes da terra e recebendo convidados de comunidades parceiras e profissionais com grande experiência, o Agile Floripa tem por objetivo se firmar no calendário dos eventos de agilidade nacionais e se tornar referência de conhecimento e compartilhamento.</p>
 <p><strong>Venha fazer parte desse movimento!</strong></p>
 <p>Nossas atividades são organizadas por um comitê voluntário que dedica tempo e expertise acreditando na cooperação e multidisciplinaridade. Nossas contas são abertas e administradas pela Agile Alliance Brazil - todo o lucro é revertido para iniciativas da comunidade.</p>
