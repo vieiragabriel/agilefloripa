@@ -52,13 +52,17 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  padding: 100px 0 100px;
+  padding: 139px 0 100px;
   text-align:center;
 }
 .logo-name {
   margin-bottom: 0;
   font-size: 10em;
-  letter-spacing: -.04em;
+  width: 60%;
+  margin: 0 auto;
+}
+.logo-img {
+  width: 100%;
 }
 .tagline {
   margin-bottom:50px;
@@ -66,7 +70,7 @@ nav {
   letter-spacing: -.02em;
 }
 .call-action-area .price {
-  font-size:3em;
+  font-size:4em;
   vertical-align: center;
   margin-right:20px;
 }
@@ -87,7 +91,7 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
-.about {
+.about, .about_schedule {
   padding:19px;
   margin: 0 -20px 0;
 }
@@ -119,6 +123,7 @@ nav {
   font-size:18px;
   padding: 10px 15px;
   letter-spacing:-.03em;
+  display: inline-block;
 }
 .speakers-name{font-size:1.6em;}
 .speakers-item p {font-size:1.4em;}
@@ -133,7 +138,7 @@ nav {
 }
 .schedule-tbl td, .schedule-tbl th {
   position:relative;
-  padding:20px 30px;
+  padding:20px 20px;
   font-size:1.4em;
   line-height:1.4em;
   text-align:left;
@@ -159,6 +164,7 @@ nav {
 .speakers-company {
   display: block;
   font-size:12px;
+  margin-left: 60px;
 }
 
 /* =============================================================================
@@ -208,7 +214,13 @@ nav {
 .form textarea {height:300px;}
 .form .btn {float:right;}
 
-
+/* =============================================================================
+   FAQ
+   ========================================================================== */
+.faq {
+  padding:19px;
+  margin: 0 -20px 15px;
+}
 
 /* =============================================================================
    Media Queries
@@ -220,7 +232,7 @@ nav {
     padding: 0 20px;
     .box-sizing(border-box);
   }
-  .about {margin: 0;}
+  .about, .faq, .about_schedule {margin: 0;}
 }
 
 @media only screen and (min-width:320px) and (max-width : 800px) {
