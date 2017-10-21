@@ -16,7 +16,7 @@
         <a href="<%= @site.url %>/2016-06-11/" target="_blank" title="2&ordm; Agile Floripa" class="nav-link">2&ordm; Agile Floripa</a>
       </li>
       <li class="nav-item">
-        <a href="<%= @site.url %>/2017-18-03/" target="_blank" title="2&ordm; Agile Floripa" class="nav-link">3&ordm; Agile Floripa</a>
+        <a href="<%= @site.url %>/2017-03-18/" target="_blank" title="2&ordm; Agile Floripa" class="nav-link">3&ordm; Agile Floripa</a>
       </li>
   </ul>
 </nav>
