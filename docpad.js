@@ -13,7 +13,7 @@ module.exports = {
       // If your event is free, just comment this line
       //price: "Inscrições abertas!",
       venue: "SENAI/CTAI",
-	  address: "Rodovia SC 401, 3730 - Saco Grande - Saco Grande, Florianópolis - SC, 88032-005",
+	  address: "Rodovia SC 401, 3730 - Saco Grande, Florianópolis - SC, 88032-005",
       addressGoogle: "SENAI Florianópolis (CTAI)",
       city: "Floripa",
       state: "Santa Catarina"
