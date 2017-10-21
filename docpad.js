@@ -11,7 +11,7 @@ module.exports = {
       description: "4º Agile Floripa dia 9 de Dezembro de 2017",
       date: "9 de Dezembro",
       // If your event is free, just comment this line
-      price: "Em breve inscrições",
+      //price: "Inscrições abertas!",
       venue: "SENAI/CTAI",
 	  address: "Rodovia SC 401, 3730 - Saco Grande - Saco Grande, Florianópolis - SC, 88032-005",
       addressGoogle: "SENAI Florianópolis (CTAI)",
@@ -22,15 +22,15 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Submeta sua palestra",
-        link: "https://goo.gl/forms/7Dgelxsm6U2b5qRy2"
+        text: "Inscrições de R$75 até R$110",
+        link: "https://inscricoes.agilebrazil.com/events/34/attendances/new"
     },
-/*
-    callToActionSubmission: {
-        text: "Submeta sua Palestra!",
-        link: "https://goo.gl/forms/eJ4Dvj99DCKemPkk2"
-    },
-*/
+
+    // callToActionSubmission: {
+    //     text: "Submeta sua Palestra!",
+    //     link: "https://goo.gl/forms/7Dgelxsm6U2b5qRy2"
+    // },
+
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     //forkButton: {
     //    repository: "https://github.com/braziljs/conf-boilerplate"
