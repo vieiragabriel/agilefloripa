@@ -241,6 +241,11 @@ module.exports = {
         name: "Caipira Ágil",
         logo: "themes/agile-floripa/img/partner/caipira.png",
         url: "http://www.caipiraagil.com/"
+      },
+      {
+        name: "GUT-SC",
+        logo: "themes/agile-floripa/img/partner/gutsc.jpg",
+        url: "http://gutssc.wordpress.com/"
       }
     ],
 
