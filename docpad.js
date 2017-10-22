@@ -64,7 +64,7 @@ module.exports = {
       courses: "Curso",
       location: "Local",
       speakers: "Palestrantes",
-      schedule: "Em breve grade",
+      schedule: "Grade",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
       faq: "FAQ",
