@@ -29,7 +29,7 @@
           Local: <%= speaker.presentation.local %>
           </p>
           <div class="call-action-area">
-                    <a href="<%= speaker.presentation.cta %>" class="call-action-link" title="<%= speaker.presentation.ctaText %>"><%= speaker.presentation.ctaText %></a>
+                    <a href="<%= speaker.presentation.cta %>" class="call-action-link" title="<%= speaker.presentation.ctaText %>" target="_blank"><%= speaker.presentation.ctaText %></a>
           </div>
         <% end %>
 
