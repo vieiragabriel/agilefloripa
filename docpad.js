@@ -246,6 +246,11 @@ module.exports = {
         name: "GUT-SC",
         logo: "themes/agile-floripa/img/partner/gutsc.jpg",
         url: "http://gutssc.wordpress.com/"
+      },
+      {
+        name: "SENAI",
+        logo: "themes/agile-floripa/img/partner/senai.png",
+        url: "http://sc.senai.br/"
       }
     ],
 
