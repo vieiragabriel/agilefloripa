@@ -251,6 +251,11 @@ module.exports = {
         name: "SENAI",
         logo: "themes/agile-floripa/img/partner/senai.png",
         url: "http://sc.senai.br/"
+      },
+      {
+        name: "Agilidade",
+        logo: "themes/agile-floripa/img/partner/agilidade.jpg",
+        url: "http://agilidade.org/"
       }
     ],
 
