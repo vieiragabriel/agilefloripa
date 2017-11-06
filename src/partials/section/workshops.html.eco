@@ -1,0 +1,25 @@
+<h2 class="section-title"><%= @labels['workshops'] %></h2>
+
+<div class="schedule-tbl">
+  <table>
+    <thead>
+      <tr>
+        <th class="schedule-time">Horário</th>
+        <th class="schedule-slot">Título</th>
+        <th class="schedule-description">Instrutor</th>
+        <th class="schedule-description">Descrição</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <% for slot in @workshops: %>
+        <tr>
+            <td class="schedule-time"><%= slot.time %></td>
+            <td class="schedule-slot"><%= slot.title %></td>
+            <td class="schedule-description"><%= slot.instructor %></td>
+            <td class="schedule-description"><%= slot.description %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

@@ -51,6 +51,7 @@ module.exports = {
       'courses',
       'location',
       'schedule',
+      'workshops',
       'speakers',
       //'sponsors',
       'partners',
@@ -65,6 +66,7 @@ module.exports = {
       location: "Local",
       speakers: "Palestrantes",
       schedule: "Grade",
+      workshops: "Workshops",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
       faq: "FAQ",
@@ -102,7 +104,7 @@ module.exports = {
             time: "08:45"
         },
         {
-            name: "Luiz Cláudio Parzianello",
+            name: "Luiz Claudio Parzianello",
             photo: "themes/agile-floripa/img/speaker/parzianello.jpg",
             company: "",
             bio: "Consultor, palestrante e professor universitário. Atua na área de TI há mais de 25 anos e de gestão há 15 anos, sendo um dos pioneiros na adoção e disseminação das Metodologias Ágeis no Brasil. Tornou-se especialista em resolução de problemas complexos de negócio utilizando pensamento sistêmico e modelos de análise (Lean Business Analysis, autor) e de gestão (Agile Management). Atuou para empresas como Grupo RBS, Sicredi, Unicred, Banrisul, Citibank, ThyssenKruppElevadores, FAURGS, REFAP/Petrobrás, GetNet, Ministério do Planejamento de Angola, entre outras. Engenheiro Eletricista pela PUCRS e Mestre em Sistemas Eletrônicos pela USP, é sócio-fundadorda empresa Surya Gestão Digital e professor em MBA nas instituições UniRitter, UNISC, IMED e CESUSC. Foi fundador e presidente do IIBA Porto Alegre Chapter (International Institute of Business Analysis) e um dos autores da Agile Extension to the BABOK (Business Analysis Body of Knowledge), projeto conjunto entre IIBA e Agile Alliance.",
@@ -228,6 +230,38 @@ module.exports = {
             time: "18:30"
         }
     ],
+
+    // Workshops
+    workshops: [
+        {
+            title: "Em breve",
+            time: "10:30",
+            instructor: "Rodrigo Yoshima"
+        },
+        {
+            title: "Almoço",
+            time: "12:30"
+        },
+        {
+            title: "Em breve",
+            time: "14:00",
+            instructor: "Em breve"
+        },
+        {
+            title: "Coffee break",
+            time: "16:00"
+        },
+        {
+            title: "Refactoring Conversation Smells",
+            time: "16:30",
+            instructor: "Luiz Claudio Parzianello"
+        },
+        {
+            title: "Encerramento + Sorteios e Happy Hour \\o/ (no auditório principal)",
+            time: "18:30"
+        }
+    ],
+
     // List of Sponsors
     sponsors: [
       {
