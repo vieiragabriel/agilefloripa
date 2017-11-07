@@ -26,7 +26,7 @@
           Valor: <%= speaker.presentation.value %><br>
           Data: <%= speaker.presentation.date %><br>
           Horário: <%= speaker.presentation.time %><br>
-          Local: <%= speaker.presentation.local %>
+          Local: <a href="https://maps.google.com?q=<%= speaker.presentation.local %>" target="_blank"><%= speaker.presentation.local %></a>
           </p>
           <div class="call-action-area">
                     <a href="<%= speaker.presentation.cta %>" class="call-action-link" title="<%= speaker.presentation.ctaText %>" target="_blank"><%= speaker.presentation.ctaText %></a>
