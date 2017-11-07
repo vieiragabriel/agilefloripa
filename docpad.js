@@ -75,6 +75,23 @@ module.exports = {
 
     courses: [
       {
+        name: "Luiz Cláudio Parzianello",
+        photo: "themes/agile-floripa/img/speaker/LuizParzianello.jpg",
+        company: "",
+        bio: "Consultor, palestrante e professor universitário. Atua na área de TI há mais de 25 anos e de gestão há 15 anos, sendo um dos pioneiros na adoção e disseminação das Metodologias Ágeis no Brasil. Tornou-se especialista em resolução de problemas complexos de negócio utilizando pensamento sistêmico e modelos de análise (Lean Business Analysis, autor) e de gestão (Agile Management). Atuou para empresas como Grupo RBS, Sicredi, Unicred, Banrisul, Citibank, ThyssenKrupp Elevadores, FAURGS, REFAP/ Petrobrás, GetNet, Ministério do Planejamento de Angola, entre outras. Engenheiro Eletricista pela PUCRS e Mestre em Sistemas Eletrônicos pela USP, é sócio-fundador da empresa Surya Gestão Digital e professor em MBA nas instituições UniRitter, UNISC, IMED e CESUSC. Foi fundador e presidente do IIBA Porto Alegre Chapter (International Institute of Business Analysis) e um dos autores da Agile Extension to the BABOK (Business Analysis Body of Knowledge), projeto conjunto entre IIBA e Agile Alliance.",
+        presentation: {
+          title: "Lean Business Analysis for Product Owners.",
+          //featured: "\\o/ BIS ",
+          description: "Desenvolver novas capacidades analíticas e gerenciais em Gestores de Produto (Product Owners) e Analistas de Negócios a partir de conceitos, práticas e ferramentas da Lean Business Analysis, com o objetivo de acelerar a conquista de melhores resultados no desenvolvimento de produtos digitais e projetos de negócio.",
+          local: "SENAI Florianópolis (CTAI) - Florianópolis, SC",
+          date: "7 e 8 de Dezembro",
+          time: "09:00 às 18:00",
+          value: "Promocional (até 16/Nov): R$ 790 / Agile Floripa (até 30/11): R$ 890 / Normal (até 04/12): R$ 990",
+      cta: 'https://www.sympla.com.br/lean-business-analysis-for-product-owners-16h__206842',
+      ctaText: 'Inscreva-se'
+        }
+      },
+      {
         name: "Rodrigo Yoshima",
         photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
         company: "",
