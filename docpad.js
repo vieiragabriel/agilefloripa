@@ -122,7 +122,7 @@ module.exports = {
         },
         {
             name: "Luiz Claudio Parzianello",
-            photo: "themes/agile-floripa/img/speaker/parzianello.jpg",
+            photo: "themes/agile-floripa/img/speaker/LuizParzianello.jpg",
             company: "",
             bio: "Consultor, palestrante e professor universitário. Atua na área de TI há mais de 25 anos e de gestão há 15 anos, sendo um dos pioneiros na adoção e disseminação das Metodologias Ágeis no Brasil. Tornou-se especialista em resolução de problemas complexos de negócio utilizando pensamento sistêmico e modelos de análise (Lean Business Analysis, autor) e de gestão (Agile Management). Atuou para empresas como Grupo RBS, Sicredi, Unicred, Banrisul, Citibank, ThyssenKruppElevadores, FAURGS, REFAP/Petrobrás, GetNet, Ministério do Planejamento de Angola, entre outras. Engenheiro Eletricista pela PUCRS e Mestre em Sistemas Eletrônicos pela USP, é sócio-fundadorda empresa Surya Gestão Digital e professor em MBA nas instituições UniRitter, UNISC, IMED e CESUSC. Foi fundador e presidente do IIBA Porto Alegre Chapter (International Institute of Business Analysis) e um dos autores da Agile Extension to the BABOK (Business Analysis Body of Knowledge), projeto conjunto entre IIBA e Agile Alliance.",
             presentation: {
