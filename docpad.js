@@ -22,7 +22,7 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Inscrições de R$75 até R$110",
+        text: "Inscrições de R$90 até R$110",
         link: "https://inscricoes.agilebrazil.com/events/34/attendances/new"
     },
 
@@ -49,12 +49,12 @@ module.exports = {
     sections: [
       'about',
       'courses',
-      'location',
       'schedule',
       'workshops',
       'speakers',
       //'sponsors',
       'partners',
+      'location',
       'faq'
       // 'contact'
     ],
@@ -63,12 +63,12 @@ module.exports = {
     labels: {
       about: "Sobre",
       courses: "Curso",
-      location: "Local",
       speakers: "Palestrantes",
-      schedule: "Grade",
-      workshops: "Workshops",
+      schedule: "Trilha 1 - Palestras",
+      workshops: "Trilha 2 - Workshops",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
+      location: "Local do Evento (Trilha 1 e 2)",
       faq: "FAQ",
       contact: "Contato"
     },
