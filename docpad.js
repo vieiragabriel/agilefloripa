@@ -148,7 +148,7 @@ module.exports = {
         },
         {
             name: "Paula Martins & Clóvis Melo",
-            photo: "themes/agile-floripa/img/speaker/user.png",
+            photo: "themes/agile-floripa/img/speaker/paula_e_clovis.jpg",
             company: "Unicred",
             bio: "Paula Martins:\n\nHá 15 anos na área de TI, de desenvolvedora, analista de testes, líder até Analista de Governança e Agile coaching. Formada em Gestão em tecnologia da informação, certificação em Coaching Comportamental em TI. Ministrante de treinamentos internos empresarial, participante e palestrante do grupo de usuários de testes de software em Porto Alegre.\n\nClóvis Melo:\n\nExperiência com Governança de TI de 5 anos em Liderança e acompanhamento do Planejamento Estratégico, definição e apuração dos principais indicadores de desempenho da TI. Gerenciamento dos Processos de TI com avaliação de Riscos e acompanhamento do nível de maturidade dos processos com utilização da metodologia COBIT e ITIL.",
             presentation: {
