@@ -253,7 +253,8 @@ module.exports = {
         {
             title: "Em breve",
             time: "10:30",
-            instructor: "Rodrigo Yoshima"
+            instructor: "Rodrigo Yoshima",
+            description: "Poucas pessoas sabem, mas o modelo STATIK é uma das ferramentas de coaching mais poderosas do Kanban. O STATIK é uma maneira sistemática e objetiva de começar a mapear sua corrente de valor, desenhar seu board kanban, habilitando a colaboração e potencializando a melhoria do fluxo na melhor forma Kaizen. Quer começar a desfrutar dos benefícios do Kanban como agilidade, previsibilidade e governança na próxima segunda-feira, mesmo que tenha centenas de pessoas? Então este workshop é para você!"
         },
         {
             title: "Almoço",
