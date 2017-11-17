@@ -185,12 +185,12 @@ module.exports = {
         },
         {
             name: "Helal Ferrari Cabral",
-            photo: "themes/agile-floripa/img/speaker/user.png",
+            photo: "themes/agile-floripa/img/speaker/helal.jpg",
             company: "Taller",
             bio: "Analista de negócios apaixonado por processos. Através do desenvolvimento emergi para o mundo dos negócios de tecnologia :-), CERTIFIED PPTO.",
             presentation: {
-                title: "Pare de priorizar e comece a selecionar",
-                description: "Priorização significa que existe uma fila fixa de items que devem ser processados. No contexto do desenvolvimento de software de escopo aberto, não priorizamos um conjunto de demandas, e sim selecionamos as melhores com criterios definidos com o cliente dentro de uma nuvem de idéias. O objetivo dessa palestra é mostrar como criar e usar esses criterios para ter uma melhor seleção das demanas que serão criadas pelo time.",
+                title: "Pare de priorizar e começe a selecionar",
+                description: "Priorização significa que existe uma fila fixa de items que devem ser processados. No contexto do desenvolvimento de software de escopo aberto, não priorizamos um conjunto de demandas, e sim selecionamos as melhores com critérios definidos com o cliente dentro de uma nuvem de ideias. O objetivo dessa palestra é mostrar como criar e usar esses critérios para ter uma melhor seleção das demanas que serão criadas pelo time.",
                 time: "14:40"
             }
         },
