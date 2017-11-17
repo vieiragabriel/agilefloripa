@@ -251,11 +251,13 @@ module.exports = {
     // Workshops
     workshops: [
         {
-            title: "Em breve",
+            title: "STATIK - Começando com Kanban (em escala) na próxima segunda-feira",
             time: "10:30",
             instructors: [
                 {
-                    name: "Rodrigo Yoshima"
+                    name: "Rodrigo Yoshima",
+                    photo: "themes/agile-floripa/img/speaker/RodrigoYoshima.jpg",
+                    bio: "Técnico em Processamento de Dados e Bacharel em Administração de Empresas e Economia. É Advanced Accredited Lean Kanban Trainer (AAKT) e Kanban Coach Professional (KCP) pela Lean-Kanban University. Com mais de 20 anos de experiência na área de tecnologia, Rodrigo atua como consultor e instrutor em melhoria de processos tendo implantado métodos Lean e Agile em mais de 200 equipes em mais de 30 empresas. Casado, pai e velejador."
                 }
             ],
             description: "Poucas pessoas sabem, mas o modelo STATIK é uma das ferramentas de coaching mais poderosas do Kanban. O STATIK é uma maneira sistemática e objetiva de começar a mapear sua corrente de valor, desenhar seu board kanban, habilitando a colaboração e potencializando a melhoria do fluxo na melhor forma Kaizen. Quer começar a desfrutar dos benefícios do Kanban como agilidade, previsibilidade e governança na próxima segunda-feira, mesmo que tenha centenas de pessoas? Então este workshop é para você!"
