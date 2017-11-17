@@ -261,9 +261,10 @@ module.exports = {
             time: "12:30"
         },
         {
-            title: "Em breve",
+            title: "A importância da empatia na construção de produtos de valor",
             time: "14:00",
-            instructor: "Em breve"
+            instructor: "Day Andrade & Andressa Chiara",
+            description: "Há diversas técnicas para ajudar na criação de um excelente produto. No entanto, nosso esforço pode ser em vão se não aproveitarmos a criatividade do time, entrarmos em consenso sobre nossos objetivos, prioridades e validarmos nossas hipóteses, escutando nossos usuários. Neste workshop você aprenderá técnicas de consenso 100% na prática, buscando, através de muita empatia, alinhar as demandas dos stakeholders com as necessidades dos usuários e da equipe envolvida. Público alvo: pessoas que trabalham ou gostariam de trabalhar com criação de produtos e em projetos, dentro e fora de TI."
         },
         {
             title: "Coffee break",
