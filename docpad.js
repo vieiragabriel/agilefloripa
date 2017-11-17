@@ -253,7 +253,11 @@ module.exports = {
         {
             title: "Em breve",
             time: "10:30",
-            instructor: "Rodrigo Yoshima",
+            instructors: [
+                {
+                    name: "Rodrigo Yoshima"
+                }
+            ],
             description: "Poucas pessoas sabem, mas o modelo STATIK é uma das ferramentas de coaching mais poderosas do Kanban. O STATIK é uma maneira sistemática e objetiva de começar a mapear sua corrente de valor, desenhar seu board kanban, habilitando a colaboração e potencializando a melhoria do fluxo na melhor forma Kaizen. Quer começar a desfrutar dos benefícios do Kanban como agilidade, previsibilidade e governança na próxima segunda-feira, mesmo que tenha centenas de pessoas? Então este workshop é para você!"
         },
         {
@@ -263,7 +267,18 @@ module.exports = {
         {
             title: "A importância da empatia na construção de produtos de valor",
             time: "14:00",
-            instructor: "Day Andrade & Andressa Chiara",
+            instructors: [
+                {
+                    name: "Day Andrade",
+                    photo: "themes/agile-floripa/img/speaker/DayAndrade.jpg",
+                    bio: "Scrum Master na Concrete, trabalha desde 2010 na área de TI e possui formação em Ciência da Computação. Coach pela Metaforum e pela SBC, Facilitadora, Embaixadora Choice, ama Comportamento Humano e participar de projetos de impacto social."
+                },
+                {
+                    name: "Andressa Chiara",
+                    photo: "themes/agile-floripa/img/speaker/AndressaChiara.jpg",
+                    bio: "Gerente de Produto (PO) na Concrete, trabalha com produtos digitais há 9 anos, liderando projetos em TI para web /mobile. Certificada como PMP, CSM, PSMI, CSPO, Lean-Kanban. Contribui com iniciativas de inclusão como a Code Like a Girl."
+                }
+            ],
             description: "Há diversas técnicas para ajudar na criação de um excelente produto. No entanto, nosso esforço pode ser em vão se não aproveitarmos a criatividade do time, entrarmos em consenso sobre nossos objetivos, prioridades e validarmos nossas hipóteses, escutando nossos usuários. Neste workshop você aprenderá técnicas de consenso 100% na prática, buscando, através de muita empatia, alinhar as demandas dos stakeholders com as necessidades dos usuários e da equipe envolvida. Público alvo: pessoas que trabalham ou gostariam de trabalhar com criação de produtos e em projetos, dentro e fora de TI."
         },
         {
@@ -273,7 +288,11 @@ module.exports = {
         {
             title: "Refactoring Conversation Smells",
             time: "16:30",
-            instructor: "Luiz Claudio Parzianello"
+            instructors: [
+                {
+                    name: "Luiz Claudio Parzianello"
+                }
+            ]
         },
         {
             title: "Encerramento + Sorteios e Happy Hour \\o/ (no auditório principal)",

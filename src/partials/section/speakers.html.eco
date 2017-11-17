@@ -22,4 +22,30 @@
     </li>
   <% end %>
 <% end %>
+
+<% for workshop in @workshops: %>
+  <% if workshop.instructors: %>
+    <% for instructor in workshop.instructors: %>
+      <% if instructor.bio: %>
+        <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
+          <% if instructor.photo: %>
+            <span class="speaker-photo">
+              <img class="photo" src="<%= instructor.photo %>" alt="<%= instructor.instructor %>" itemprop="image">
+            </span>
+          <% end %>
+
+          <h3 class="speech-title">
+            <% if workshop.time: %>
+              <span class="speech-time"><%= workshop.time %></span>
+            <% end %>
+              <span>Workshop: <%= workshop.title %></span>
+          </h3>
+
+          <h3 class="speakers-name"><%= instructor.name %> <% if instructor.link: %><a href="<%= instructor.link.href %>" title="<%= instructor.link.text %>"><%= instructor.link.text %></a><% end %></h3>
+          <p class="speakers-bio"><%= instructor.bio %></p>
+        </li>
+      <% end %>
+    <% end %>
+  <% end %>
+<% end %>
 </ul>

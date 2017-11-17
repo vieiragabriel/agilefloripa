@@ -16,7 +16,11 @@
         <tr>
             <td class="schedule-time"><%= slot.time %></td>
             <td class="schedule-slot"><%= slot.title %></td>
-            <td class="schedule-description"><%= slot.instructor %></td>
+            <td class="schedule-description">
+              <% if slot.instructors: %>
+                <%- slot.instructors.map((i) -> i.name).join(", ") %>
+              <% end %>
+            </td>
             <td class="schedule-description"><%= slot.description %></td>
         </tr>
       <% end %>
