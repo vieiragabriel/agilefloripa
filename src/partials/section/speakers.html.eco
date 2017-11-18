@@ -26,7 +26,7 @@
 <% for workshop in @workshops: %>
   <% if workshop.instructors: %>
     <% for instructor in workshop.instructors: %>
-      <% if instructor.bio: %>
+      <% if instructor.photo: %>
         <li class="speakers-item" itemprop="performer" itemscope itemtype="http://schema.org/Person">
           <% if instructor.photo: %>
             <span class="speaker-photo">

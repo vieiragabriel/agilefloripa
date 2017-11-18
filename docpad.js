@@ -292,7 +292,8 @@ module.exports = {
             time: "16:30",
             instructors: [
                 {
-                    name: "Luiz Claudio Parzianello"
+                    name: "Luiz Claudio Parzianello",
+                    photo: "themes/agile-floripa/img/speaker/LuizParzianello.jpg"
                 }
             ],
             description: "Como um praticante ágil, você provavelmente se comunica com muitas pessoas diferentes todos os dias. Todas as suas conversas são eficazes? Ou você às vezes você ou outra pessoa se encontra explicando e re-explicando, discutindo uma posição, lutando sobre \"semântica\", ou encurralado? Estas conversas dão errado de formas consistentes, que surgem dos métodos inatos das pessoas de processamento e catalogação de informações. Venha a este tutorial para aprender esses \"conversations smells\" e formas sistemáticas -- um conjunto simples de padrões e perguntas-para enfrentá-los e obter suas conversas destravadas."
