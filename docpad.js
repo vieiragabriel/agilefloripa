@@ -173,13 +173,13 @@ module.exports = {
             time: "12:30"
         },
         {
-            name: "Marcelo Leite Barros",
-            photo: "themes/agile-floripa/img/speaker/marceloleite.jpg",
-            company: "Lambda3",
-            bio: "Personal & Professional Coach, Agilista criativo, curioso e detalhista, apaixonado por música, cachorros, tatuagens, batata frita, praia, cultura organizacional e comportamento humano. 20 anos de experiência em TI, ajudando times a entregarem software de qualidade e alto valor de negócio.",
+            // name: "Em breve",
+            // photo: "themes/agile-floripa/img/speaker/user.jpg",
+            // company: "Lambda3",
+            // bio: "Personal & Professional Coach, Agilista criativo, curioso e detalhista, apaixonado por música, cachorros, tatuagens, batata frita, praia, cultura organizacional e comportamento humano. 20 anos de experiência em TI, ajudando times a entregarem software de qualidade e alto valor de negócio.",
             presentation: {
-                title: "Popcorn Flow e o Papel do Agile Coach na Resolução de Problemas",
-                description: "Certa vez fui chamado para ajudar um time com problemas... Mais que ajudá-los, procurei ensinar ferramentas que o time pudesse usar para resolver seus desafios, de forma clara e objetiva, sem mimimi. Essa é a grande sacada do trabalho de um Agile Coach: sem estar próximo do dia a dia, dar ferramentas, ensinar, conduzir as pessoas para a melhoria contínua. Entenda como conduzi este processo, utilizando o Popcorn Flow como ferramenta e veja os resultados desta jornada! Esta sessão demonstra um case de como apoiei um time a discutir de forma objetiva seus desafios. Por mais incrível que pareça, o meu maior desafio nessa jornada foi ajudar a definir o que era o problema! Com o pensamento estruturado, livre de mimimi e sendo objetivos, o time chegou a uma quantidade bem considerável de insights para resolver as causas raiz.",
+                title: "Em breve",
+                // description: "",
                 time: "14:00"
             }
         },
