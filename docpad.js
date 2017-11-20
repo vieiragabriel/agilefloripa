@@ -233,9 +233,9 @@ module.exports = {
         },
         {
             name: "Gabriel Pacheco",
-            photo: "themes/agile-floripa/img/speaker/user.png",
+            photo: "themes/agile-floripa/img/speaker/gabriel-pacheco.jpg",
             company: "Softplan",
-            bio: "Profissional com mais de 10 anos de experiência em TI na área de desenvolvimento de software, em empresas de pequeno e grande porte e também em startup no exterior, atuando ao longo da carreira como Coordenador, Líder, Agile Coach, Scrum Master, Gestor de Projetos, Analista de Requisitos, Desenvolvedor e Consultor",
+            bio: "Profissional com vasta experiência em TI na área de desenvolvimento de software tendo trabalhado em startup e empresas de pequeno e grande porte, público e privado, atuando ao longo da carreira como Coordenador, Líder, Agile Coach, Scrum Master, Gestor de Projetos, Analista, Engenheiro de Software e recentemente também como Consultor Ágil; Graduado em Ciência da Computação, Especialista em Engenharia de Software, MBA em Gerenciamento de Projetos, cursando MBA em Gestão Estratégica de Pessoas, Empreteco, possuo as certificações PMP, PSM, SAFe Agilist e CSPO. Experiência em transformação ágil e ágil em escala ajudando times e organizações na melhoria de métodos, processos e ferramentas para maximizar geração de valor, melhoria contínua, comunicação, e gestão de pessoas através de conceitos do Lean, SAFe, Scrum, Kanban, XP, Management 3.0 e OKR.",
             presentation: {
                 title: "Agilidade em Suporte de 2º nível",
                 description: "A ideia é trazer ao público a experiência da aplicação de conceitos ágeis, gestão de pessoas e a Filosofia de Gestão em uma equipe de Suporte de 2º nível com 19 integrantes que nunca ouviram o que é Ágil. Discussão sobre acertos e erros e também apresentar os resultados através dos indicadores de acompanhamento. Como foi possível melhorar o atendimento de SLA, prioridades, e também o clima de trabalho com o uso da agilidade. Mudança de mindset da equipe com foco na entrega de valor no atendimento ao cliente, e um desafio maior, como foi organizar tudo isso com pessoas trabalhando remotamente em 5 cidades diferentes.",
