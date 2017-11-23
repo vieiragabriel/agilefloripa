@@ -22,7 +22,7 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Inscrições de R$90 até R$110",
+        text: "Inscrições: R$110",
         link: "https://inscricoes.agilebrazil.com/events/34/attendances/new"
     },
 
