@@ -52,7 +52,7 @@ module.exports = {
       'schedule',
       'workshops',
       'speakers',
-      //'sponsors',
+      'sponsors',
       'partners',
       'location',
       'faq'
@@ -306,11 +306,17 @@ module.exports = {
 
     // List of Sponsors
     sponsors: [
-      {
-        name: "Agile Alliance Brazil",
-        logo: "themes/agile-floripa/img/sponsor/agilealliance-brazil_inverted_box.png",
-        url: "https://www.agilealliance.org/pt/"
-      }
+        {
+            type: 'Gold',
+            size: 'big',
+            items: [
+                {
+                   name: "Aspercom",
+                    logo: "themes/agile-floripa/img/sponsor/aspercom.png",
+                    url: "https://www.agilealliance.org/pt/"
+                }
+            ]
+        }
     ],
 
     // List of Partners
