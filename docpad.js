@@ -179,7 +179,7 @@ module.exports = {
           "Bacharel em Computação com mais de 10 anos de atuação em áreas de negócio tão distintas quanto telecomunicações, representação comercial e governança pública. Entusiasta dos temas que podem colaborar para a eficiência do serviço público, atualmente é Product Owner no CIASC, colaborando com as atividades dos times que atendem à Secretaria da Fazenda de SC.",
         presentation: {
           title:
-            "Aprimorando a administração pública: Métodos ágeis em prol do príncípio da eficiência na Administração Pública",
+            "Aprimorando a administração pública: Métodos ágeis em prol do princípio da eficiência na Administração Pública",
           description:
             "A palestra pretende apresentar a experiência de adoção de técnicas ágeis por um conjunto de times do Centro de Informática e  Automação do Estado de SC (CIASC). A intenção é que se evidenciem os benefícios que esse esforço propicia para o atendimento ao Princípio Constitucional da Eficiência na Administração Pública, no intento de estimular que práticas análogas se propaguem para outros grupos  voltados a atender necessidades dos cidadãos catarinenses.",
           time: "11:50"
