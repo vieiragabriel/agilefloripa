@@ -280,10 +280,6 @@ hr {
   width: 960px;
   position: relative;
 }
-.navOldEvents {
-  text-align: center;
-  padding-top: 15px;
-}
 .content {
   padding: 50px 0;
 }
@@ -337,20 +333,16 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  padding: 139px 0 100px;
+  padding: 100px 0 100px;
   text-align: center;
 }
 .logo-name {
   margin-bottom: 0;
   font-size: 10em;
-  width: 60%;
-  margin: 0 auto;
-}
-.logo-img {
-  width: 100%;
+  letter-spacing: -0.04em;
 }
 .tagline {
-  margin-bottom: 10px;
+  margin-bottom: 50px;
   font-size: 2em;
   letter-spacing: -0.02em;
 }
@@ -385,8 +377,7 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
-.about,
-.about_schedule {
+.about {
   padding: 19px;
   margin: 0 -20px 0;
 }
@@ -399,7 +390,6 @@ nav {
   padding-left: 180px;
   margin-bottom: 30px;
   border-bottom: 1px dashed #e7e7e7;
-  padding-bottom: 20px;
 }
 .speaker-photo {
   position: absolute;
@@ -410,17 +400,14 @@ nav {
   height: 120px;
 }
 .speech-title {
-  line-height: 2em;
   padding-top: 10px;
   font-size: 2em;
   margin-bottom: 1em;
 }
 .speech-time {
-  line-height: 1em;
   font-size: 18px;
   padding: 10px 15px;
   letter-spacing: -0.03em;
-  display: inline-block;
 }
 .speakers-name {
   font-size: 1.6em;
@@ -441,7 +428,7 @@ nav {
 .schedule-tbl td,
 .schedule-tbl th {
   position: relative;
-  padding: 20px 20px;
+  padding: 20px 30px;
   font-size: 1.4em;
   line-height: 1.4em;
   text-align: left;
@@ -454,9 +441,8 @@ nav {
 }
 .schedule-tbl .speaker-photo {
   position: relative;
-  display: block;
   width: 40px;
-  height: 80px;
+  height: 40px;
   float: left;
   margin-right: 20px;
 }
@@ -470,7 +456,6 @@ nav {
 .speakers-company {
   display: block;
   font-size: 12px;
-  margin-left: 60px;
 }
 /* =============================================================================
    SPONSORS  and  PARTNERS
@@ -532,13 +517,6 @@ nav {
   float: right;
 }
 /* =============================================================================
-   FAQ
-   ========================================================================== */
-.faq {
-  padding: 19px;
-  margin: 0 -20px 15px;
-}
-/* =============================================================================
    Media Queries
    ========================================================================== */
 @media only screen and (max-width: 1024px) {
@@ -550,9 +528,7 @@ nav {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
   }
-  .about,
-  .faq,
-  .about_schedule {
+  .about {
     margin: 0;
   }
 }
@@ -740,23 +716,23 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  background-image: url('../img/cover3.jpg');
+  background-image: url('../img/cover.jpg');
   background-color: #2b2b2b;
   background-repeat: no-repeat;
   background-position: center bottom;
+  background-size: 100% auto;
 }
 .logo-link,
 .tagline,
 .call-action-area .price {
-  color: #fffbef;
-  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.3);
 }
 .tagline {
   font-weight: normal;
 }
 .call-action-area .price {
   color: #fddd52;
-  text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.6);
 }
 .call-action-area .call-action-link,
 .btn {
@@ -793,8 +769,7 @@ nav {
 /* =============================================================================
    ABOUT
    ========================================================================== */
-.about,
-.about_schedule {
+.about {
   border: 1px solid #e7e7e7;
   background: #fff;
   border-radius: 4px;
@@ -883,9 +858,6 @@ nav {
 .partner-link:focus {
   border-color: #f0a303;
 }
-.sponsor--big {
-  width: 350px;
-}
 /* =============================================================================
    CONTACT
    ========================================================================== */
@@ -902,14 +874,6 @@ nav {
 .form textarea:focus {
   border-color: #aaa;
   outline: 0;
-}
-/* =============================================================================
-   FAQ
-   ========================================================================== */
-.faq {
-  border: 1px solid #e7e7e7;
-  background: #fff;
-  border-radius: 4px;
 }
 /* =============================================================================
    Media Queries
