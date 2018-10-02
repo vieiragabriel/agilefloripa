@@ -5,29 +5,29 @@ module.exports = {
   templateData: {
     // Conference info
     conf: {
-      name: "Agile Floripa - 4º Agile Floripa dia 9 de Dezembro de 2017",
-      description: "4º Agile Floripa dia 9 de Dezembro de 2017",
-      date: "9 de Dezembro",
+      name: "Agile Floripa - 5º Agile Floripa dia 7 e 8 de Dezembro de 2018",
+      description: "5º Agile Floripa dia 7 e 8 de Dezembro de 2018",
+      date: "7 e 8 de Dezembro",
       // If your event is free, just comment this line
       //price: "Inscrições abertas!",
-      venue: "SENAI/CTAI",
-      address: "Rodovia SC 401, 3730 - Saco Grande, 88032-005",
-      addressGoogle: "SENAI Florianópolis (CTAI)",
+      venue: "Hotel Oceania",
+      address: "R. do Marisco, 550 - Ingleses Centro, Florianópolis - SC, 88058-090",
+      addressGoogle: "Oceania Park Hotel & Convention Center - Rua do Marisco - Ingleses Centro, Florianópolis - SC",
       city: "Florianópolis",
       state: "Santa Catarina"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-      text: "Inscrições: R$110",
-      link: "https://inscricoes.agilebrazil.com/events/34/attendances/new"
-    },
+    /*callToAction: {
+      text: "Inscrições: Em breve!",
+      link: "#"
+    },*/
 
-    // callToActionSubmission: {
-    //     text: "Submeta sua Palestra!",
-    //     link: "https://goo.gl/forms/7Dgelxsm6U2b5qRy2"
-    // },
+     callToActionSubmission: {
+         text: "Submeta sua Palestra!",
+         link: "https://goo.gl/forms/ULfEla2zy7rtOFKG3"
+     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     //forkButton: {
@@ -46,11 +46,11 @@ module.exports = {
     // you can also change order here and it will reflect on page
     sections: [
       "about",
-      "courses",
-      "schedule",
-      "workshops",
-      "speakers",
-      "sponsors",
+      //"courses",
+      //"schedule",
+      //"workshops",
+      //"speakers",
+      //"sponsors",
       "partners",
       "location",
       "faq"
@@ -60,13 +60,13 @@ module.exports = {
     // Labels which you can translate to other languages
     labels: {
       about: "Sobre",
-      courses: "Curso",
-      speakers: "Palestrantes",
-      schedule: "Trilha 1 - Palestras",
-      workshops: "Trilha 2 - Workshops",
+      //courses: "Curso",
+      //speakers: "Palestrantes",
+      //schedule: "Trilha 1 - Palestras",
+      //workshops: "Trilha 2 - Workshops",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
-      location: "Local do Evento (Trilha 1 e 2)",
+      //location: "Local do Evento (Trilha 1 e 2)",
       faq: "FAQ",
       contact: "Contato"
     },
