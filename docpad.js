@@ -19,10 +19,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    /*callToAction: {
-      text: "Inscrições: Em breve!",
-      link: "#"
-    },*/
+    callToAction: {
+      text: "Inscreva-se já!",
+      link: "https://inscricoes.agilebrazil.com/events/42/attendances/new"
+    },
 
      callToActionSubmission: {
          text: "Submeta sua Palestra!",
